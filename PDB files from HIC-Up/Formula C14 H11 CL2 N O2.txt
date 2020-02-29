@@ -1,0 +1,38 @@
+COMPND DIF 2-(2,6-DICHLOROPHENYL)AMINO)BENZENEACETIC ACID; DICLOFENAC
+REMARK DIF Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK DIF Extracted from PDB file pdb2b6d.ent
+REMARK DIF Formula C14 H11 CL2 N O2
+REMARK DIF Nr of non-hydrogen atoms  19
+REMARK DIF Eigen-values covariance X/Y/Z      141.8      55.1      13.7
+REMARK DIF Residue type DIF
+REMARK DIF Residue name   3033
+REMARK DIF Original residue name (for O) $701
+REMARK DIF  RESOLUTION. 1.40 ANGSTROMS.
+REMARK DIF occurs in        5 other PDB entries
+REMARK DIF Also in 1.5-2.0A  :  1DVX
+REMARK DIF Resolution (A)    :  2.00
+REMARK DIF Also in 2.0-2.5A  :  1NR6
+REMARK DIF Resolution (A)    :  2.10
+REMARK DIF Also in 2.5-3.0A  :  1SV9 2B17 1PXX
+REMARK DIF Resolution (A)    :  2.71 2.71 2.90
+REMARK DIF
+HETATM    1  C1  DIF  3033      -3.845   0.495   1.118  1.00 20.00      
+HETATM    2  C2  DIF  3033      -2.437   0.523   1.000  1.00 20.00      
+HETATM    3 CL2  DIF  3033      -1.680   1.756   1.921  1.00 20.00      
+HETATM    4  C3  DIF  3033      -1.761  -0.297   0.062  1.00 20.00      
+HETATM    5  C4  DIF  3033      -2.586  -1.141  -0.756  1.00 20.00      
+HETATM    6 CL4  DIF  3033      -1.896  -2.190  -1.939  1.00 20.00      
+HETATM    7  C5  DIF  3033      -3.989  -1.149  -0.640  1.00 20.00      
+HETATM    8  C6  DIF  3033      -4.614  -0.334   0.303  1.00 20.00      
+HETATM    9  N1  DIF  3033      -0.443   0.007  -0.496  1.00 20.00      
+HETATM   10  C7  DIF  3033       1.960   0.427  -0.028  1.00 20.00      
+HETATM   11  C8  DIF  3033       0.669   0.870  -0.407  1.00 20.00      
+HETATM   12  C9  DIF  3033       0.489   2.198  -0.810  1.00 20.00      
+HETATM   13  C10 DIF  3033       1.561   3.093  -0.814  1.00 20.00      
+HETATM   14  C11 DIF  3033       2.824   2.674  -0.407  1.00 20.00      
+HETATM   15  C12 DIF  3033       3.018   1.352  -0.016  1.00 20.00      
+HETATM   16  C13 DIF  3033       2.294  -0.999   0.263  1.00 20.00      
+HETATM   17  C14 DIF  3033       3.302  -2.077   0.424  1.00 20.00      
+HETATM   18  O1  DIF  3033       4.521  -2.000   0.554  1.00 20.00      
+HETATM   19  O2  DIF  3033       2.613  -3.208   0.669  1.00 20.00      
+REMARK DIF ENDHET

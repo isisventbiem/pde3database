@@ -1,0 +1,40 @@
+COMPND TES TESTOSTERONE
+REMARK TES Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK TES Extracted from PDB file pdb1j96.ent
+REMARK TES Formula C19 H28 O2
+REMARK TES Nr of non-hydrogen atoms  21
+REMARK TES Eigen-values covariance X/Y/Z      187.3      31.0      11.8
+REMARK TES Residue type TES
+REMARK TES Residue name   7178
+REMARK TES Original residue name (for O) $903
+REMARK TES  RESOLUTION. 1.25 ANGSTROMS.
+REMARK TES occurs in       10 other PDB entries
+REMARK TES Also in 1.5-2.0A  :  1JTV 2AM9 2Q7K 2Q7I 2Q7J 2Q7L
+REMARK TES Resolution (A)    :  1.54 1.64 1.80 1.87 1.90 1.92
+REMARK TES Also in 2.0-2.5A  :  1Q13 1VPO 1AFS
+REMARK TES Resolution (A)    :  2.08 2.15 2.50
+REMARK TES Also in 2.5-3.0A  :  1I9J
+REMARK TES Resolution (A)    :  2.60
+REMARK TES
+HETATM    1  C1  TES  7178      -2.432  -1.600   0.220  1.00 20.00      
+HETATM    2  C2  TES  7178      -3.952  -1.401   0.165  1.00 20.00      
+HETATM    3  C3  TES  7178      -4.357  -0.068   0.670  1.00 20.00      
+HETATM    4  O3  TES  7178      -5.339   0.133   1.341  1.00 20.00      
+HETATM    5  C4  TES  7178      -3.512   1.033   0.272  1.00 20.00      
+HETATM    6  C5  TES  7178      -2.291   0.885  -0.295  1.00 20.00      
+HETATM    7  C6  TES  7178      -1.522   2.107  -0.698  1.00 20.00      
+HETATM    8  C7  TES  7178      -0.120   2.141  -0.102  1.00 20.00      
+HETATM    9  C8  TES  7178       0.583   0.813  -0.396  1.00 20.00      
+HETATM   10  C9  TES  7178      -0.207  -0.423   0.054  1.00 20.00      
+HETATM   11  C10 TES  7178      -1.632  -0.496  -0.514  1.00 20.00      
+HETATM   12  C11 TES  7178       0.497  -1.776  -0.203  1.00 20.00      
+HETATM   13  C12 TES  7178       1.892  -1.771   0.444  1.00 20.00      
+HETATM   14  C13 TES  7178       2.716  -0.572  -0.016  1.00 20.00      
+HETATM   15  C14 TES  7178       1.943   0.718   0.287  1.00 20.00      
+HETATM   16  C15 TES  7178       2.954   1.845   0.071  1.00 20.00      
+HETATM   17  C16 TES  7178       4.259   1.243   0.626  1.00 20.00      
+HETATM   18  C17 TES  7178       3.947  -0.252   0.893  1.00 20.00      
+HETATM   19  O17 TES  7178       5.064  -1.132   0.718  1.00 20.00      
+HETATM   20  C18 TES  7178       3.115  -0.674  -1.501  1.00 20.00      
+HETATM   21  C19 TES  7178      -1.603  -0.754  -2.034  1.00 20.00      
+REMARK TES ENDHET

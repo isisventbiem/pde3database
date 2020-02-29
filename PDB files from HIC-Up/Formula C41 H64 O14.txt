@@ -1,0 +1,50 @@
+COMPND DGX DIGOXIN
+REMARK DGX Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK DGX Extracted from PDB file pdb1igj.ent
+REMARK DGX Formula C41 H64 O14
+REMARK DGX Nr of non-hydrogen atoms  37
+REMARK DGX Eigen-values covariance X/Y/Z     1009.8      62.9      32.6
+REMARK DGX Residue type DGX
+REMARK DGX Residue name   2997
+REMARK DGX Original residue name (for O) $X1
+REMARK DGX  RESOLUTION. 2.50 ANGSTROMS.
+REMARK DGX occurs in        0 other PDB entries
+REMARK DGX
+HETATM    1  C1  DGX  2997       1.590   2.080   0.152  1.00 20.00      
+HETATM    2  C2  DGX  2997       2.413   1.211   1.104  1.00 20.00      
+HETATM    3  C3  DGX  2997       3.280   0.192   0.364  1.00 20.00      
+HETATM    4  O3  DGX  2997       4.247   0.814  -0.494  1.00 20.00      
+HETATM    5  C4  DGX  2997       2.376  -0.674  -0.504  1.00 20.00      
+HETATM    6  C5  DGX  2997       1.503   0.118  -1.475  1.00 20.00      
+HETATM    7  C6  DGX  2997       0.623  -0.807  -2.312  1.00 20.00      
+HETATM    8  C7  DGX  2997      -0.512  -1.398  -1.479  1.00 20.00      
+HETATM    9  C8  DGX  2997      -1.419  -0.292  -0.948  1.00 20.00      
+HETATM   10  C9  DGX  2997      -0.633   0.763  -0.166  1.00 20.00      
+HETATM   11  C10 DGX  2997       0.706   1.288  -0.824  1.00 20.00      
+HETATM   12  C11 DGX  2997      -1.602   1.919   0.059  1.00 20.00      
+HETATM   13  C12 DGX  2997      -2.905   1.526   0.740  1.00 20.00      
+HETATM   14  O12 DGX  2997      -3.708   2.710   0.847  1.00 20.00      
+HETATM   15  C13 DGX  2997      -3.717   0.368   0.048  1.00 20.00      
+HETATM   16  C14 DGX  2997      -2.740  -0.822  -0.254  1.00 20.00      
+HETATM   17  O14 DGX  2997      -3.418  -1.834  -1.086  1.00 20.00      
+HETATM   18  C15 DGX  2997      -2.649  -1.482   1.140  1.00 20.00      
+HETATM   19  C16 DGX  2997      -4.053  -1.434   1.741  1.00 20.00      
+HETATM   20  C17 DGX  2997      -4.703  -0.183   1.157  1.00 20.00      
+HETATM   21  C18 DGX  2997      -4.404   0.857  -1.242  1.00 20.00      
+HETATM   22  C19 DGX  2997       0.456   2.350  -1.912  1.00 20.00      
+HETATM   23  C20 DGX  2997      -6.132  -0.427   0.767  1.00 20.00      
+HETATM   24  C21 DGX  2997      -6.593  -1.671   0.104  1.00 20.00      
+HETATM   25  O21 DGX  2997      -7.986  -1.418  -0.201  1.00 20.00      
+HETATM   26  C22 DGX  2997      -7.185   0.400   0.879  1.00 20.00      
+HETATM   27  C23 DGX  2997      -8.350  -0.236   0.305  1.00 20.00      
+HETATM   28  O23 DGX  2997      -9.510   0.166   0.174  1.00 20.00      
+HETATM   29  C1X DGX  2997       5.633   0.437  -0.402  1.00 20.00      
+HETATM   30  C2X DGX  2997       6.257   1.115   0.821  1.00 20.00      
+HETATM   31  C3X DGX  2997       7.710   0.686   1.036  1.00 20.00      
+HETATM   32  O3X DGX  2997       8.597   1.209   0.027  1.00 20.00      
+HETATM   33  C4X DGX  2997       7.783  -0.843   1.086  1.00 20.00      
+HETATM   34  O4X DGX  2997       9.162  -1.236   1.157  1.00 20.00      
+HETATM   35  C5X DGX  2997       7.107  -1.480  -0.139  1.00 20.00      
+HETATM   36  O5X DGX  2997       5.767  -0.980  -0.276  1.00 20.00      
+HETATM   37  C6X DGX  2997       7.011  -2.992   0.005  1.00 20.00      
+REMARK DGX ENDHET

@@ -1,0 +1,23 @@
+COMPND ICF 1-CHLORO-2,2,2-TRIFLUOROETHYL DIFLUOROMETHYL ETHER; ISOFLURANE
+REMARK ICF Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK ICF Extracted from PDB file pdb1xz3.ent
+REMARK ICF Formula C3 H2 CL F5 O
+REMARK ICF Nr of non-hydrogen atoms  10
+REMARK ICF Eigen-values covariance X/Y/Z       31.7       9.6       3.7
+REMARK ICF Residue type ICF
+REMARK ICF Residue name   4415
+REMARK ICF Original residue name (for O) $201
+REMARK ICF  RESOLUTION. 1.75 ANGSTROMS.
+REMARK ICF occurs in        0 other PDB entries
+REMARK ICF
+HETATM    1  FAC ICF  4415       2.572  -0.163   0.447  1.00 20.00      
+HETATM    2  CAJ ICF  4415       1.467   0.350  -0.073  1.00 20.00      
+HETATM    3  FAD ICF  4415       1.575   0.383  -1.404  1.00 20.00      
+HETATM    4  FAE ICF  4415       1.311   1.569   0.413  1.00 20.00      
+HETATM    5  CAI ICF  4415       0.257  -0.471   0.361  1.00 20.00      
+HETATM    6 CLAF ICF  4415       0.710  -2.218   0.427  1.00 20.00      
+HETATM    7  OAG ICF  4415      -0.824  -0.296  -0.561  1.00 20.00      
+HETATM    8  CAH ICF  4415      -1.989  -0.055   0.233  1.00 20.00      
+HETATM    9  FAB ICF  4415      -1.979   1.231   0.644  1.00 20.00      
+HETATM   10  FAA ICF  4415      -3.100  -0.330  -0.487  1.00 20.00      
+REMARK ICF ENDHET

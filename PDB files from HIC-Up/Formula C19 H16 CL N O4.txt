@@ -1,0 +1,44 @@
+COMPND IMN INDOMETHACIN
+REMARK IMN Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK IMN Extracted from PDB file pdb2dv8.ent
+REMARK IMN Formula C19 H16 CL N O4
+REMARK IMN Nr of non-hydrogen atoms  25
+REMARK IMN Eigen-values covariance X/Y/Z      266.8     123.7       4.7
+REMARK IMN Residue type IMN
+REMARK IMN Residue name   4505
+REMARK IMN Original residue name (for O) $301
+REMARK IMN  RESOLUTION. 1.40 ANGSTROMS.
+REMARK IMN occurs in        9 other PDB entries
+REMARK IMN Also in 1.5-2.0A  :  1S2A 2DM6
+REMARK IMN Resolution (A)    :  1.70 2.00
+REMARK IMN Also in 2.0-2.5A  :  2ALT 2BXK 2BXM
+REMARK IMN Resolution (A)    :  2.20 2.40 2.50
+REMARK IMN Also in 2.5-3.0A  :  1Z9H 2BXQ 2OTH 4COX
+REMARK IMN Resolution (A)    :  2.60 2.60 2.90 2.90
+REMARK IMN
+HETATM    1  C   IMN  4505       0.324  -0.651  -0.050  1.00 20.00      
+HETATM    2  C1  IMN  4505       1.810  -0.718  -0.090  1.00 20.00      
+HETATM    3  C2  IMN  4505       2.447  -1.946  -0.096  1.00 20.00      
+HETATM    4  C3  IMN  4505       1.726  -3.130  -0.055  1.00 20.00      
+HETATM    5  C4  IMN  4505       0.337  -3.087  -0.018  1.00 20.00      
+HETATM    6  C5  IMN  4505      -0.357  -1.870  -0.015  1.00 20.00      
+HETATM    7  C6  IMN  4505       2.000  -5.493   0.645  1.00 20.00      
+HETATM    8  C7  IMN  4505       2.338   0.674  -0.119  1.00 20.00      
+HETATM    9  C8  IMN  4505       1.114   1.514  -0.102  1.00 20.00      
+HETATM   10  C9  IMN  4505      -1.183   1.234   0.245  1.00 20.00      
+HETATM   11  C10 IMN  4505      -2.600   0.768   0.016  1.00 20.00      
+HETATM   12  C11 IMN  4505      -3.530   1.552   0.697  1.00 20.00      
+HETATM   13  C12 IMN  4505      -4.886   1.286   0.630  1.00 20.00      
+HETATM   14  C13 IMN  4505      -5.336   0.220  -0.129  1.00 20.00      
+HETATM   15  C14 IMN  4505      -4.425  -0.572  -0.813  1.00 20.00      
+HETATM   16  C15 IMN  4505      -3.056  -0.308  -0.744  1.00 20.00      
+HETATM   17  C16 IMN  4505       1.021   3.016  -0.114  1.00 20.00      
+HETATM   18  C17 IMN  4505       3.832   0.955  -0.143  1.00 20.00      
+HETATM   19  C18 IMN  4505       4.489   2.336  -0.158  1.00 20.00      
+HETATM   20  N   IMN  4505       0.052   0.677  -0.062  1.00 20.00      
+HETATM   21  O   IMN  4505       2.416  -4.326  -0.066  1.00 20.00      
+HETATM   22  O1  IMN  4505      -1.162   2.207   0.963  1.00 20.00      
+HETATM   23  O2  IMN  4505       4.161   3.309  -0.825  1.00 20.00      
+HETATM   24  O3  IMN  4505       5.563   2.478   0.622  1.00 20.00      
+HETATM   25 CL   IMN  4505      -7.093  -0.125  -0.219  1.00 20.00      
+REMARK IMN ENDHET

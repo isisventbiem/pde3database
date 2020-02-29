@@ -1,0 +1,41 @@
+COMPND 715 (2R)-4-OXO-4-(3-(TRIFLUOROMETHYL)-5,6-DIHYDRO(1,2, 4)TRIAZOLO(4,3-A)PYRAZIN-7(8H)-YL)-1-(2,4,5- TRIFLUOROPHENYL)BUTAN-2-AMINE
+REMARK 715 Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK 715 Extracted from PDB file pdb1x70.ent
+REMARK 715 Formula C16 H15 F6 N5 O
+REMARK 715 Nr of non-hydrogen atoms  28
+REMARK 715 Eigen-values covariance X/Y/Z      685.3      34.3      22.5
+REMARK 715 Residue type 715
+REMARK 715 Residue name   1090
+REMARK 715 Original residue name (for O) $A801
+REMARK 715  RESOLUTION. 2.10 ANGSTROMS.
+REMARK 715 occurs in        0 other PDB entries
+REMARK 715
+HETATM    1  C1  715  1090      -6.637   0.779   0.582  1.00 20.00      
+HETATM    2  C2  715  1090      -5.251   0.855   0.912  1.00 20.00      
+HETATM    3  C3  715  1090      -4.259  -0.009   0.317  1.00 20.00      
+HETATM    4  C4  715  1090      -4.690  -0.977  -0.652  1.00 20.00      
+HETATM    5  C5  715  1090      -6.082  -1.054  -0.982  1.00 20.00      
+HETATM    6  C6  715  1090      -7.031  -0.187  -0.379  1.00 20.00      
+HETATM    7  F9  715  1090      -6.475  -1.933  -1.868  1.00 20.00      
+HETATM    8  F10 715  1090      -4.877   1.755   1.810  1.00 20.00      
+HETATM    9  C11 715  1090      -2.829   0.161   0.729  1.00 20.00      
+HETATM   10  C12 715  1090      -1.956   0.744  -0.400  1.00 20.00      
+HETATM   11  C15 715  1090      -0.580   0.965   0.177  1.00 20.00      
+HETATM   12  C16 715  1090       0.308  -0.315   0.500  1.00 20.00      
+HETATM   13  N19 715  1090       1.584  -0.077   1.121  1.00 20.00      
+HETATM   14  N20 715  1090      -2.525   2.018  -0.842  1.00 20.00      
+HETATM   15  O22 715  1090      -0.152  -1.447   0.258  1.00 20.00      
+HETATM   16  C25 715  1090       2.171   1.144   0.520  1.00 20.00      
+HETATM   17  C26 715  1090       3.355   0.957  -0.408  1.00 20.00      
+HETATM   18  N27 715  1090       4.278  -0.124   0.049  1.00 20.00      
+HETATM   19  C28 715  1090       3.922  -1.238   0.757  1.00 20.00      
+HETATM   20  C29 715  1090       2.428  -1.387   1.114  1.00 20.00      
+HETATM   21  C39 715  1090       5.604  -0.291  -0.113  1.00 20.00      
+HETATM   22  N40 715  1090       5.986  -1.437   0.481  1.00 20.00      
+HETATM   23  N41 715  1090       4.982  -1.999   0.998  1.00 20.00      
+HETATM   24  C42 715  1090       6.563   0.651  -0.849  1.00 20.00      
+HETATM   25  F43 715  1090       7.757   0.125  -0.800  1.00 20.00      
+HETATM   26  F44 715  1090       6.526   1.814  -0.210  1.00 20.00      
+HETATM   27  F45 715  1090       6.172   0.782  -2.122  1.00 20.00      
+HETATM   28  F46 715  1090      -8.291  -0.274  -0.699  1.00 20.00      
+REMARK 715 ENDHET

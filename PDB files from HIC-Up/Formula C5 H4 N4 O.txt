@@ -1,0 +1,27 @@
+COMPND 7HP 7-HYDROXY-PYRAZOLO(4,3-D)PYRIMIDINE
+REMARK 7HP Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK 7HP Extracted from PDB file pdb1i0l.ent
+REMARK 7HP Formula C5 H4 N4 O
+REMARK 7HP Nr of non-hydrogen atoms  10
+REMARK 7HP Eigen-values covariance X/Y/Z       21.5      14.2       0.0
+REMARK 7HP Residue type 7HP
+REMARK 7HP Residue name   1141
+REMARK 7HP Original residue name (for O) $800
+REMARK 7HP  RESOLUTION. 1.72 ANGSTROMS.
+REMARK 7HP occurs in        6 other PDB entries
+REMARK 7HP Also in 1.5-2.0A  :  1TC2 1I13 1I14 1P18
+REMARK 7HP Resolution (A)    :  1.81 1.84 1.92 2.00
+REMARK 7HP Also in 2.0-2.5A  :  1I0I 1PVS
+REMARK 7HP Resolution (A)    :  2.06 2.40
+REMARK 7HP
+HETATM    1  C9  7HP  1141      -1.999  -0.738   0.001  1.00 20.00      
+HETATM    2  C4  7HP  1141      -0.607  -0.783  -0.017  1.00 20.00      
+HETATM    3  N3  7HP  1141       0.164  -1.894  -0.029  1.00 20.00      
+HETATM    4  C2  7HP  1141       1.488  -1.557   0.010  1.00 20.00      
+HETATM    5  N1  7HP  1141       1.947  -0.256   0.036  1.00 20.00      
+HETATM    6  C6  7HP  1141       1.154   0.863   0.019  1.00 20.00      
+HETATM    7  O6  7HP  1141       1.645   1.969  -0.041  1.00 20.00      
+HETATM    8  C5  7HP  1141      -0.181   0.530  -0.001  1.00 20.00      
+HETATM    9  N7  7HP  1141      -1.297   1.331   0.011  1.00 20.00      
+HETATM   10  N8  7HP  1141      -2.313   0.534   0.012  1.00 20.00      
+REMARK 7HP ENDHET

@@ -1,0 +1,34 @@
+COMPND HQO 2-HEPTYL-4-HYDROXY QUINOLINE N-OXIDE; 2-HEPTYL-1-OXY-QUINOLIN-4-OL
+REMARK HQO Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK HQO Extracted from PDB file pdb1kf6.ent
+REMARK HQO Formula C16 H21 N O2
+REMARK HQO Nr of non-hydrogen atoms  19
+REMARK HQO Eigen-values covariance X/Y/Z      248.2      34.3       6.6
+REMARK HQO Residue type HQO
+REMARK HQO Residue name   4295
+REMARK HQO Original residue name (for O) $700
+REMARK HQO  RESOLUTION. 2.70 ANGSTROMS.
+REMARK HQO occurs in        1 other PDB entries
+REMARK HQO Also in 2.5-3.0A  :  1KQG
+REMARK HQO Resolution (A)    :  2.80
+REMARK HQO
+HETATM    1  C1  HQO  4295      -2.369   1.645  -0.186  1.00 20.00      
+HETATM    2  O1  HQO  4295      -3.009   2.658  -0.579  1.00 20.00      
+HETATM    3  C2  HQO  4295      -1.056   1.808   0.304  1.00 20.00      
+HETATM    4  C3  HQO  4295      -0.314   0.675   0.754  1.00 20.00      
+HETATM    5  N1  HQO  4295      -0.879  -0.590   0.711  1.00 20.00      
+HETATM    6  O4  HQO  4295      -0.222  -1.554   1.105  1.00 20.00      
+HETATM    7  C5  HQO  4295      -2.169  -0.787   0.229  1.00 20.00      
+HETATM    8  C6  HQO  4295      -2.752  -2.103   0.178  1.00 20.00      
+HETATM    9  C7  HQO  4295      -4.068  -2.282  -0.322  1.00 20.00      
+HETATM   10  C8  HQO  4295      -4.825  -1.154  -0.778  1.00 20.00      
+HETATM   11  C9  HQO  4295      -4.273   0.150  -0.736  1.00 20.00      
+HETATM   12  C10 HQO  4295      -2.951   0.349  -0.237  1.00 20.00      
+HETATM   13  C11 HQO  4295       1.003   0.851   1.244  1.00 20.00      
+HETATM   14  C12 HQO  4295       2.819   0.458  -0.466  1.00 20.00      
+HETATM   15  C13 HQO  4295       1.924   1.520   0.198  1.00 20.00      
+HETATM   16  C14 HQO  4295       4.266   0.686  -0.062  1.00 20.00      
+HETATM   17  C15 HQO  4295       5.018  -0.619  -0.288  1.00 20.00      
+HETATM   18  C16 HQO  4295       6.464  -0.255  -0.672  1.00 20.00      
+HETATM   19  C17 HQO  4295       7.392  -1.456  -0.398  1.00 20.00      
+REMARK HQO ENDHET

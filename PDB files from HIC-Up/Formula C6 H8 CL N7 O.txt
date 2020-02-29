@@ -1,0 +1,28 @@
+COMPND AMR 3,5-DIAMINO-N-(AMINOIMINOMETHYL)-6- CHLOROPYRAZINECARBOXAMIDE; AMILORIDE
+REMARK AMR Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK AMR Extracted from PDB file pdb1f5l.ent
+REMARK AMR Formula C6 H8 CL N7 O
+REMARK AMR Nr of non-hydrogen atoms  15
+REMARK AMR Eigen-values covariance X/Y/Z      100.5      28.7       0.2
+REMARK AMR Residue type AMR
+REMARK AMR Residue name   1607
+REMARK AMR Original residue name (for O) $301
+REMARK AMR  RESOLUTION. 2.10 ANGSTROMS.
+REMARK AMR occurs in        0 other PDB entries
+REMARK AMR
+HETATM    1  N1  AMR  1607      -0.681  -0.906   0.045  1.00 20.00      
+HETATM    2  C1  AMR  1607      -0.218   0.350  -0.003  1.00 20.00      
+HETATM    3  C3  AMR  1607       1.350   0.539   0.005  1.00 20.00      
+HETATM    4  N5  AMR  1607       2.125  -0.616  -0.146  1.00 20.00      
+HETATM    5  C6  AMR  1607       3.424  -0.644  -0.032  1.00 20.00      
+HETATM    6  N7  AMR  1607       4.132   0.425   0.250  1.00 20.00      
+HETATM    7  N6  AMR  1607       4.032  -1.782  -0.204  1.00 20.00      
+HETATM    8  O1  AMR  1607       1.840   1.665   0.153  1.00 20.00      
+HETATM    9  C2  AMR  1607      -1.119   1.423  -0.053  1.00 20.00      
+HETATM   10  N4  AMR  1607      -0.688   2.764  -0.103  1.00 20.00      
+HETATM   11  N3  AMR  1607      -2.449   1.177  -0.055  1.00 20.00      
+HETATM   12  C4  AMR  1607      -2.918  -0.098  -0.007  1.00 20.00      
+HETATM   13  N2  AMR  1607      -4.328  -0.294  -0.009  1.00 20.00      
+HETATM   14  C5  AMR  1607      -2.001  -1.169   0.046  1.00 20.00      
+HETATM   15 CL1  AMR  1607      -2.502  -2.835   0.113  1.00 20.00      
+REMARK AMR ENDHET

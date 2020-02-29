@@ -1,0 +1,33 @@
+COMPND PNX 3,7-DIMETHYL-1-(5-OXOHEXYL)-3,7-DIHYDRO-1H-PURINE-2,6- DIONE; PENTOXIFYLLINE
+REMARK PNX Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK PNX Extracted from PDB file pdb2a3c.ent
+REMARK PNX Formula C13 H18 N4 O3
+REMARK PNX Nr of non-hydrogen atoms  20
+REMARK PNX Eigen-values covariance X/Y/Z      221.8      45.7       6.9
+REMARK PNX Residue type PNX
+REMARK PNX Residue name   6259
+REMARK PNX Original residue name (for O) $1434
+REMARK PNX  RESOLUTION. 2.07 ANGSTROMS.
+REMARK PNX occurs in        0 other PDB entries
+REMARK PNX
+HETATM    1  CAA PNX  6259       6.653   0.635  -1.252  1.00 20.00      
+HETATM    2  CAM PNX  6259       5.342   0.583  -0.466  1.00 20.00      
+HETATM    3  OAD PNX  6259       4.868   1.616   0.005  1.00 20.00      
+HETATM    4  CAJ PNX  6259       4.661  -0.773  -0.257  1.00 20.00      
+HETATM    5  CAH PNX  6259       3.509  -0.728   0.750  1.00 20.00      
+HETATM    6  CAI PNX  6259       2.143  -0.482   0.107  1.00 20.00      
+HETATM    7  CAK PNX  6259       1.053  -0.531   1.183  1.00 20.00      
+HETATM    8  N1  PNX  6259      -0.315  -0.480   0.615  1.00 20.00      
+HETATM    9  C6  PNX  6259      -0.998   0.741   0.522  1.00 20.00      
+HETATM   10  O6  PNX  6259      -0.417   1.780   0.835  1.00 20.00      
+HETATM   11  C5  PNX  6259      -2.309   0.784   0.058  1.00 20.00      
+HETATM   12  N7  PNX  6259      -3.190   1.758  -0.163  1.00 20.00      
+HETATM   13  CAB PNX  6259      -2.992   3.196   0.130  1.00 20.00      
+HETATM   14  C8  PNX  6259      -4.315   1.251  -0.659  1.00 20.00      
+HETATM   15  N9  PNX  6259      -4.166  -0.068  -0.754  1.00 20.00      
+HETATM   16  C4  PNX  6259      -2.950  -0.392  -0.322  1.00 20.00      
+HETATM   17  N3  PNX  6259      -2.281  -1.620  -0.232  1.00 20.00      
+HETATM   18  CAC PNX  6259      -2.981  -2.870  -0.605  1.00 20.00      
+HETATM   19  C2  PNX  6259      -0.959  -1.665   0.232  1.00 20.00      
+HETATM   20  O2  PNX  6259      -0.355  -2.736   0.272  1.00 20.00      
+REMARK PNX ENDHET

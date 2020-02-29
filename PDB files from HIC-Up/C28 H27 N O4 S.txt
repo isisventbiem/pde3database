@@ -1,0 +1,49 @@
+COMPND RAL RALOXIFENE
+REMARK RAL Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK RAL Extracted from PDB file pdb1qkn.ent
+REMARK RAL Formula C28 H27 N O4 S
+REMARK RAL Nr of non-hydrogen atoms  34
+REMARK RAL Eigen-values covariance X/Y/Z      690.2     209.2      39.1
+REMARK RAL Residue type RAL
+REMARK RAL Residue name   6541
+REMARK RAL Original residue name (for O) $A600
+REMARK RAL  RESOLUTION. 2.25 ANGSTROMS.
+REMARK RAL occurs in        2 other PDB entries
+REMARK RAL Also in 2.5-3.0A  :  2JFA 1ERR
+REMARK RAL Resolution (A)    :  2.55 2.60
+REMARK RAL
+HETATM    1  C1  RAL  6541       1.953  -3.049  -0.929  1.00 20.00      
+HETATM    2  C2  RAL  6541       2.070  -4.407  -0.630  1.00 20.00      
+HETATM    3  C3  RAL  6541       2.993  -4.800   0.332  1.00 20.00      
+HETATM    4  O3  RAL  6541       3.121  -6.143   0.618  1.00 20.00      
+HETATM    5  C4  RAL  6541       3.779  -3.829   0.991  1.00 20.00      
+HETATM    6  C5  RAL  6541       3.647  -2.514   0.702  1.00 20.00      
+HETATM    7  S6  RAL  6541       4.429  -1.172   1.339  1.00 20.00      
+HETATM    8  C7  RAL  6541       3.666   0.023   0.446  1.00 20.00      
+HETATM    9  C8  RAL  6541       3.953   1.479   0.563  1.00 20.00      
+HETATM   10  C9  RAL  6541       5.211   1.978   0.377  1.00 20.00      
+HETATM   11  C10 RAL  6541       5.495   3.345   0.469  1.00 20.00      
+HETATM   12  C11 RAL  6541       4.469   4.227   0.763  1.00 20.00      
+HETATM   13  O11 RAL  6541       4.734   5.582   0.862  1.00 20.00      
+HETATM   14  C12 RAL  6541       3.184   3.741   0.958  1.00 20.00      
+HETATM   15  C13 RAL  6541       2.933   2.374   0.858  1.00 20.00      
+HETATM   16  C14 RAL  6541       2.718  -2.093  -0.289  1.00 20.00      
+HETATM   17  C15 RAL  6541       2.738  -0.628  -0.416  1.00 20.00      
+HETATM   18  C16 RAL  6541       1.957   0.091  -1.317  1.00 20.00      
+HETATM   19  O16 RAL  6541       2.524   0.598  -2.302  1.00 20.00      
+HETATM   20  C17 RAL  6541       0.520   0.272  -1.138  1.00 20.00      
+HETATM   21  C18 RAL  6541      -0.259   0.873  -2.125  1.00 20.00      
+HETATM   22  C19 RAL  6541      -1.656   1.076  -2.005  1.00 20.00      
+HETATM   23  C20 RAL  6541      -2.231   0.646  -0.820  1.00 20.00      
+HETATM   24  C21 RAL  6541      -1.450   0.056   0.161  1.00 20.00      
+HETATM   25  C22 RAL  6541      -0.109  -0.142   0.025  1.00 20.00      
+HETATM   26  O23 RAL  6541      -3.564   0.716  -0.423  1.00 20.00      
+HETATM   27  C24 RAL  6541      -4.516   0.530  -1.443  1.00 20.00      
+HETATM   28  C25 RAL  6541      -5.812   1.107  -0.889  1.00 20.00      
+HETATM   29  N26 RAL  6541      -6.748   0.217  -0.176  1.00 20.00      
+HETATM   30  C27 RAL  6541      -8.056   0.924  -0.161  1.00 20.00      
+HETATM   31  C28 RAL  6541      -9.161   0.099   0.495  1.00 20.00      
+HETATM   32  C29 RAL  6541      -8.768  -0.209   1.955  1.00 20.00      
+HETATM   33  C30 RAL  6541      -7.408  -0.910   1.936  1.00 20.00      
+HETATM   34  C31 RAL  6541      -6.357  -0.056   1.214  1.00 20.00      
+REMARK RAL ENDHET

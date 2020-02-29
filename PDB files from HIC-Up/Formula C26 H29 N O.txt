@@ -1,0 +1,41 @@
+COMPND CTX (Z)-2-(4-(1,2)-DIPHENYL-1-BUTENYL)-PHENOXY)-N,N- DIMETHYLETHANAMINE; TRANS FORM OF TAMOXIFEN
+REMARK CTX Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK CTX Extracted from PDB file pdb1ya4.ent
+REMARK CTX Formula C26 H29 N O
+REMARK CTX Nr of non-hydrogen atoms  28
+REMARK CTX Eigen-values covariance X/Y/Z      392.1     154.7      18.8
+REMARK CTX Residue type CTX
+REMARK CTX Residue name   2740
+REMARK CTX Original residue name (for O) $1
+REMARK CTX  RESOLUTION. 3.20 ANGSTROMS.
+REMARK CTX occurs in        0 other PDB entries
+REMARK CTX
+HETATM    1  CA  CTX  2740      -4.339  -1.174  -0.429  1.00 20.00      
+HETATM    2  CB  CTX  2740      -5.177  -1.342   0.846  1.00 20.00      
+HETATM    3  OL  CTX  2740       3.761   1.261   0.589  1.00 20.00      
+HETATM    4  CA1 CTX  2740       4.873   0.863  -0.297  1.00 20.00      
+HETATM    5  CB1 CTX  2740       6.216   1.390   0.212  1.00 20.00      
+HETATM    6  C1  CTX  2740       2.408   0.962   0.388  1.00 20.00      
+HETATM    7  C2  CTX  2740       1.870   0.204  -0.738  1.00 20.00      
+HETATM    8  C3  CTX  2740       0.484  -0.009  -0.850  1.00 20.00      
+HETATM    9  C5  CTX  2740       0.084   1.243   1.254  1.00 20.00      
+HETATM   10  C6  CTX  2740       1.493   1.477   1.394  1.00 20.00      
+HETATM   11  C4  CTX  2740      -0.455   0.505   0.138  1.00 20.00      
+HETATM   12  C7  CTX  2740      -2.031   0.278  -0.069  1.00 20.00      
+HETATM   13  C8  CTX  2740      -2.719   1.637  -0.144  1.00 20.00      
+HETATM   14  C9  CTX  2740      -3.702   2.035   0.849  1.00 20.00      
+HETATM   15  C10 CTX  2740      -4.325   3.316   0.759  1.00 20.00      
+HETATM   16  C11 CTX  2740      -3.983   4.206  -0.298  1.00 20.00      
+HETATM   17  C12 CTX  2740      -3.017   3.826  -1.281  1.00 20.00      
+HETATM   18  C13 CTX  2740      -2.399   2.573  -1.206  1.00 20.00      
+HETATM   19  C14 CTX  2740      -1.401  -4.495  -1.156  1.00 20.00      
+HETATM   20  C15 CTX  2740      -0.709  -4.862   0.034  1.00 20.00      
+HETATM   21  C16 CTX  2740      -0.688  -3.987   1.151  1.00 20.00      
+HETATM   22  C17 CTX  2740      -1.361  -2.745   1.078  1.00 20.00      
+HETATM   23  C18 CTX  2740      -2.061  -2.365  -0.117  1.00 20.00      
+HETATM   24  C19 CTX  2740      -2.074  -3.254  -1.233  1.00 20.00      
+HETATM   25  C20 CTX  2740      -2.797  -1.005  -0.197  1.00 20.00      
+HETATM   26  NI  CTX  2740       7.334   0.338   0.020  1.00 20.00      
+HETATM   27  C21 CTX  2740       7.088  -0.942   0.732  1.00 20.00      
+HETATM   28  C22 CTX  2740       7.627   0.065  -1.431  1.00 20.00      
+REMARK CTX ENDHET

@@ -1,0 +1,32 @@
+COMPND IBP IBUPROFEN; 2-(4-ISOBUTYLPHENYL)PROPIONIC ACID
+REMARK IBP Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK IBP Extracted from PDB file pdb2pws.ent
+REMARK IBP Formula C13 H18 O2
+REMARK IBP Nr of non-hydrogen atoms  15
+REMARK IBP Eigen-values covariance X/Y/Z      130.2      11.1       7.4
+REMARK IBP Residue type IBP
+REMARK IBP Residue name   4409
+REMARK IBP Original residue name (for O) $3960
+REMARK IBP  RESOLUTION. 2.21 ANGSTROMS.
+REMARK IBP occurs in        3 other PDB entries
+REMARK IBP Also in 2.0-2.5A  :  2QZ1
+REMARK IBP Resolution (A)    :  2.29
+REMARK IBP Also in 2.5-3.0A  :  1EQG 2BXG
+REMARK IBP Resolution (A)    :  2.61 2.70
+REMARK IBP
+HETATM    1  C1  IBP  4409       3.449   0.575  -0.351  1.00 20.00      
+HETATM    2  C2  IBP  4409      -2.869   0.450   0.817  1.00 20.00      
+HETATM    3  C3  IBP  4409      -4.222   0.169   0.202  1.00 20.00      
+HETATM    4  C4  IBP  4409      -4.531   1.219  -0.864  1.00 20.00      
+HETATM    5  C5  IBP  4409      -4.320  -1.247  -0.352  1.00 20.00      
+HETATM    6  C6  IBP  4409       2.652  -0.705  -0.325  1.00 20.00      
+HETATM    7  C7  IBP  4409       3.155  -1.580   0.815  1.00 20.00      
+HETATM    8  C8  IBP  4409       1.207  -0.440  -0.115  1.00 20.00      
+HETATM    9  C9  IBP  4409       0.233  -0.817  -1.040  1.00 20.00      
+HETATM   10  C10 IBP  4409      -1.122  -0.551  -0.801  1.00 20.00      
+HETATM   11  C11 IBP  4409      -1.495   0.088   0.382  1.00 20.00      
+HETATM   12  C12 IBP  4409      -0.518   0.449   1.292  1.00 20.00      
+HETATM   13  C13 IBP  4409       0.817   0.188   1.055  1.00 20.00      
+HETATM   14  O1  IBP  4409       4.667   0.541  -0.452  1.00 20.00      
+HETATM   15  O2  IBP  4409       2.895   1.660  -0.263  1.00 20.00      
+REMARK IBP ENDHET

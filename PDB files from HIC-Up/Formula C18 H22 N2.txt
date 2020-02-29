@@ -1,0 +1,35 @@
+COMPND DSM 3-(10,11-DIHYDRO-5H-DIBENZO(B,F)AZEPIN-5-YL)-N- METHYLPROPAN-1-AMINE
+REMARK DSM Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK DSM Extracted from PDB file pdb2qb4.ent
+REMARK DSM Formula C18 H22 N2
+REMARK DSM Nr of non-hydrogen atoms  20
+REMARK DSM Eigen-values covariance X/Y/Z      121.8      61.6      24.1
+REMARK DSM Residue type DSM
+REMARK DSM Residue name   3206
+REMARK DSM Original residue name (for O) $A801
+REMARK DSM  RESOLUTION. 1.90 ANGSTROMS.
+REMARK DSM occurs in        1 other PDB entries
+REMARK DSM Also in 2.5-3.0A  :  2QJU
+REMARK DSM Resolution (A)    :  2.90
+REMARK DSM
+HETATM    1  C18 DSM  3206      -4.678   2.628   1.507  1.00 20.00      
+HETATM    2  N2  DSM  3206      -4.223   1.979   0.265  1.00 20.00      
+HETATM    3  C17 DSM  3206      -2.748   1.736   0.278  1.00 20.00      
+HETATM    4  C16 DSM  3206      -2.171   1.514  -1.090  1.00 20.00      
+HETATM    5  C15 DSM  3206      -0.620   1.620  -1.087  1.00 20.00      
+HETATM    6  N1  DSM  3206       0.169   0.438  -0.539  1.00 20.00      
+HETATM    7  C14 DSM  3206      -0.404  -0.888  -0.512  1.00 20.00      
+HETATM    8  C1  DSM  3206      -0.926  -1.534  -1.679  1.00 20.00      
+HETATM    9  C2  DSM  3206      -1.481  -2.843  -1.589  1.00 20.00      
+HETATM   10  C3  DSM  3206      -1.465  -3.519  -0.361  1.00 20.00      
+HETATM   11  C4  DSM  3206      -0.951  -2.890   0.763  1.00 20.00      
+HETATM   12  C13 DSM  3206      -0.387  -1.592   0.708  1.00 20.00      
+HETATM   13  C5  DSM  3206       0.149  -1.005   1.960  1.00 20.00      
+HETATM   14  C6  DSM  3206       1.660  -0.825   1.993  1.00 20.00      
+HETATM   15  C12 DSM  3206       2.314   0.055   0.880  1.00 20.00      
+HETATM   16  C11 DSM  3206       1.597   0.634  -0.287  1.00 20.00      
+HETATM   17  C7  DSM  3206       3.691   0.327   0.987  1.00 20.00      
+HETATM   18  C8  DSM  3206       4.390   1.095   0.059  1.00 20.00      
+HETATM   19  C9  DSM  3206       3.734   1.651  -1.041  1.00 20.00      
+HETATM   20  C10 DSM  3206       2.349   1.419  -1.214  1.00 20.00      
+REMARK DSM ENDHET

@@ -1,0 +1,43 @@
+COMPND DEX DEXAMETHASONE; 9A-FLUORO-16BETA-METHYLPREDNISOLONE
+REMARK DEX Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK DEX Extracted from PDB file pdb1m2z.ent
+REMARK DEX Formula C22 H29 F O5
+REMARK DEX Nr of non-hydrogen atoms  28
+REMARK DEX Eigen-values covariance X/Y/Z      303.2      54.6      22.3
+REMARK DEX Residue type DEX
+REMARK DEX Residue name   2957
+REMARK DEX Original residue name (for O) $301
+REMARK DEX  RESOLUTION. 2.50 ANGSTROMS.
+REMARK DEX occurs in        1 other PDB entries
+REMARK DEX Also in 2.5-3.0A  :  1P93
+REMARK DEX Resolution (A)    :  2.70
+REMARK DEX
+HETATM    1  C1  DEX  2957      -3.265  -1.602   0.162  1.00 20.00      
+HETATM    2  C2  DEX  2957      -4.432  -1.562   0.796  1.00 20.00      
+HETATM    3  C3  DEX  2957      -5.181  -0.263   0.809  1.00 20.00      
+HETATM    4  C4  DEX  2957      -4.520   0.944   0.214  1.00 20.00      
+HETATM    5  C5  DEX  2957      -3.345   0.828  -0.399  1.00 20.00      
+HETATM    6  C6  DEX  2957      -2.744   2.084  -0.957  1.00 20.00      
+HETATM    7  C7  DEX  2957      -1.323   2.248  -0.424  1.00 20.00      
+HETATM    8  C8  DEX  2957      -0.489   0.976  -0.532  1.00 20.00      
+HETATM    9  C9  DEX  2957      -1.181  -0.279   0.001  1.00 20.00      
+HETATM   10  C10 DEX  2957      -2.594  -0.465  -0.555  1.00 20.00      
+HETATM   11  C11 DEX  2957      -0.308  -1.532   0.052  1.00 20.00      
+HETATM   12  C12 DEX  2957       1.142  -1.315   0.473  1.00 20.00      
+HETATM   13  C13 DEX  2957       1.786  -0.128  -0.242  1.00 20.00      
+HETATM   14  C14 DEX  2957       0.930   1.113   0.013  1.00 20.00      
+HETATM   15  C15 DEX  2957       1.805   2.307  -0.353  1.00 20.00      
+HETATM   16  C16 DEX  2957       3.216   1.838  -0.011  1.00 20.00      
+HETATM   17  C17 DEX  2957       3.093   0.367   0.377  1.00 20.00      
+HETATM   18  C18 DEX  2957       1.988  -0.453  -1.721  1.00 20.00      
+HETATM   19  C19 DEX  2957      -2.632  -0.842  -2.034  1.00 20.00      
+HETATM   20  C20 DEX  2957       4.312  -0.456  -0.008  1.00 20.00      
+HETATM   21  C21 DEX  2957       4.959  -1.455   0.937  1.00 20.00      
+HETATM   22  C22 DEX  2957       3.861   2.756   1.023  1.00 20.00      
+HETATM   23  F1  DEX  2957      -1.357  -0.021   1.328  1.00 20.00      
+HETATM   24  O1  DEX  2957      -6.307  -0.196   1.295  1.00 20.00      
+HETATM   25  O2  DEX  2957      -0.263  -2.141  -1.230  1.00 20.00      
+HETATM   26  O3  DEX  2957       3.000   0.321   1.794  1.00 20.00      
+HETATM   27  O4  DEX  2957       4.811  -0.343  -1.126  1.00 20.00      
+HETATM   28  O5  DEX  2957       5.038  -2.729   0.316  1.00 20.00      
+REMARK DEX ENDHET

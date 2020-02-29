@@ -1,0 +1,34 @@
+COMPND FUN 5-(AMINOSULFONYL)-4-CHLORO-2-((2-FURYLMETHYL) AMINO)BENZOIC ACID
+REMARK FUN Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK FUN Extracted from PDB file pdb1z9y.ent
+REMARK FUN Formula C12 H11 CL N2 O5 S
+REMARK FUN Nr of non-hydrogen atoms  21
+REMARK FUN Eigen-values covariance X/Y/Z      169.2      63.3      11.8
+REMARK FUN Residue type FUN
+REMARK FUN Residue name   3723
+REMARK FUN Original residue name (for O) $500
+REMARK FUN  RESOLUTION. 1.66 ANGSTROMS.
+REMARK FUN occurs in        0 other PDB entries
+REMARK FUN
+HETATM    1  N1  FUN  3723      -4.538  -0.223   0.814  1.00 20.00      
+HETATM    2  S1  FUN  3723      -3.779   0.951   0.339  1.00 20.00      
+HETATM    3  O1  FUN  3723      -4.369   1.344  -0.960  1.00 20.00      
+HETATM    4  O2  FUN  3723      -3.714   1.989   1.342  1.00 20.00      
+HETATM    5  C1  FUN  3723      -2.150   0.363  -0.021  1.00 20.00      
+HETATM    6  C2  FUN  3723      -1.131   1.181  -0.522  1.00 20.00      
+HETATM    7 CL1  FUN  3723      -1.411   2.890  -0.754  1.00 20.00      
+HETATM    8  C3  FUN  3723       0.155   0.723  -0.838  1.00 20.00      
+HETATM    9  C4  FUN  3723       0.458  -0.606  -0.565  1.00 20.00      
+HETATM   10  N2  FUN  3723       1.717  -1.159  -0.868  1.00 20.00      
+HETATM   11  C5  FUN  3723       2.777  -0.304  -1.418  1.00 20.00      
+HETATM   12  C6  FUN  3723       3.437   0.440  -0.290  1.00 20.00      
+HETATM   13  C7  FUN  3723       4.386  -0.051   0.505  1.00 20.00      
+HETATM   14  C8  FUN  3723       4.656   1.083   1.394  1.00 20.00      
+HETATM   15  C9  FUN  3723       3.833   2.031   0.939  1.00 20.00      
+HETATM   16  O3  FUN  3723       3.004   1.686  -0.055  1.00 20.00      
+HETATM   17  C10 FUN  3723      -0.569  -1.440  -0.096  1.00 20.00      
+HETATM   18  C11 FUN  3723      -1.857  -0.988   0.179  1.00 20.00      
+HETATM   19  C12 FUN  3723      -0.330  -2.906   0.198  1.00 20.00      
+HETATM   20  O4  FUN  3723       0.756  -3.392  -0.010  1.00 20.00      
+HETATM   21  O5  FUN  3723      -1.331  -3.612   0.687  1.00 20.00      
+REMARK FUN ENDHET

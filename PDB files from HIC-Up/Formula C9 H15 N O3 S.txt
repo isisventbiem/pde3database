@@ -1,0 +1,31 @@
+COMPND MCO 1-(3-MERCAPTO-2-METHYL-PROPIONYL)-PYRROLIDINE-2- CARBOXYLIC ACID
+REMARK MCO Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK MCO Extracted from PDB file pdb1m2x.ent
+REMARK MCO Formula C9 H15 N O3 S
+REMARK MCO Nr of non-hydrogen atoms  14
+REMARK MCO Eigen-values covariance X/Y/Z       75.9      18.7       6.8
+REMARK MCO Residue type MCO
+REMARK MCO Residue name   5085
+REMARK MCO Original residue name (for O) $811
+REMARK MCO  RESOLUTION. 1.50 ANGSTROMS.
+REMARK MCO occurs in        5 other PDB entries
+REMARK MCO Also in 1.5-2.0A  :  2QDS 1JT1 2FU8 1UZF
+REMARK MCO Resolution (A)    :  1.66 1.78 1.80 2.00
+REMARK MCO Also in 2.0-2.5A  :  1J37
+REMARK MCO Resolution (A)    :  2.40
+REMARK MCO
+HETATM    1  O2  MCO  5085       3.511   1.233   0.226  1.00 20.00      
+HETATM    2  C9  MCO  5085       2.265   1.121   0.176  1.00 20.00      
+HETATM    3  O3  MCO  5085       1.444   1.866   0.746  1.00 20.00      
+HETATM    4  C8  MCO  5085       1.696  -0.041  -0.670  1.00 20.00      
+HETATM    5  C7  MCO  5085       2.498  -1.319  -0.421  1.00 20.00      
+HETATM    6  C6  MCO  5085       1.871  -1.937   0.834  1.00 20.00      
+HETATM    7  C5  MCO  5085       0.380  -1.599   0.736  1.00 20.00      
+HETATM    8  N   MCO  5085       0.361  -0.414  -0.153  1.00 20.00      
+HETATM    9  C4  MCO  5085      -0.783   0.186  -0.548  1.00 20.00      
+HETATM   10  O1  MCO  5085      -0.740   1.110  -1.363  1.00 20.00      
+HETATM   11  C2  MCO  5085      -2.125  -0.274   0.032  1.00 20.00      
+HETATM   12  C3  MCO  5085      -2.723  -1.350  -0.882  1.00 20.00      
+HETATM   13  C1  MCO  5085      -3.077   0.917   0.164  1.00 20.00      
+HETATM   14  S   MCO  5085      -4.575   0.500   1.123  1.00 20.00      
+REMARK MCO ENDHET
