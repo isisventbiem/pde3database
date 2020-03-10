@@ -1,0 +1,33 @@
+COMPND 5ID (2R,3R,4S,5R)-2-(4-AMINO-5-IODO-7H-PYRROLO(2,3- D)PYRIMIDIN-7-YL)-5-(HYDROXYMETHYL)TETRAHYDROFURAN-3, 4-DIOL; 5-IODOTUBERCIDIN
+REMARK 5ID Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK 5ID Extracted from PDB file pdb2c47.ent
+REMARK 5ID Formula C11 H13 I N4 O4
+REMARK 5ID Nr of non-hydrogen atoms  20
+REMARK 5ID Eigen-values covariance X/Y/Z      154.4      46.1       8.1
+REMARK 5ID Residue type 5ID
+REMARK 5ID Residue name    958
+REMARK 5ID Original residue name (for O) $A1300
+REMARK 5ID  RESOLUTION. 2.40 ANGSTROMS.
+REMARK 5ID occurs in        0 other PDB entries
+REMARK 5ID
+HETATM    1  O5' 5ID   958      -3.181  -2.425  -0.107  1.00 20.00      
+HETATM    2  C5' 5ID   958      -3.949  -1.521   0.721  1.00 20.00      
+HETATM    3  C4' 5ID   958      -3.370  -0.073   0.653  1.00 20.00      
+HETATM    4  O4' 5ID   958      -2.145  -0.113   1.361  1.00 20.00      
+HETATM    5  C1' 5ID   958      -1.177   0.799   0.721  1.00 20.00      
+HETATM    6  N9  5ID   958       0.139   0.074   0.393  1.00 20.00      
+HETATM    7  C8  5ID   958       0.214  -1.228   0.125  1.00 20.00      
+HETATM    8  C7  5ID   958       1.492  -1.547  -0.128  1.00 20.00      
+HETATM    9  C5  5ID   958       2.284  -0.401  -0.040  1.00 20.00      
+HETATM   10  C6  5ID   958       3.644  -0.089  -0.196  1.00 20.00      
+HETATM   11  N1  5ID   958       4.019   1.187  -0.023  1.00 20.00      
+HETATM   12  C2  5ID   958       3.137   2.121   0.312  1.00 20.00      
+HETATM   13  N3  5ID   958       1.855   1.850   0.484  1.00 20.00      
+HETATM   14  C4  5ID   958       1.387   0.606   0.299  1.00 20.00      
+HETATM   15  N6  5ID   958       4.580  -1.004  -0.506  1.00 20.00      
+HETATM   16  C2' 5ID   958      -1.793   1.290  -0.619  1.00 20.00      
+HETATM   17  O2' 5ID   958      -2.142   2.708  -0.566  1.00 20.00      
+HETATM   18  C3' 5ID   958      -2.999   0.344  -0.791  1.00 20.00      
+HETATM   19  O3' 5ID   958      -4.118   0.953  -1.483  1.00 20.00      
+HETATM   20  IAE 5ID   958       2.122  -3.530  -0.610  1.00 20.00      
+REMARK 5ID ENDHET
