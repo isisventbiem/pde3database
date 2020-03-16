@@ -1,0 +1,434 @@
+
+                         MODELLER 9.23, 2019/10/22, r11522
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2019 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Windows Vista build 9200, LAPTOP-V7H0QFCP, SMP, unknown
+Date and time of compilation         : 2019/10/22 14:51:24
+MODELLER executable type             : x86_64-w64
+Job starting time (YY/MM/DD HH:MM:SS): 2020/03/15 10:51:10
+
+read_to_681_> topology.submodel read from topology file:        3
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.xz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.xz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.xz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.xz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.xz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.xz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.Z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.gz
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.bz2
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.7z
+
+check_path_E> Path is not a valid UTF8 string: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.xz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.Z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.gz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.bz2
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.7z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.xz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.Z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.gz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.bz2
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.7z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.xz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.Z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.gz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.bz2
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.7z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.xz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.Z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.gz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.bz2
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.7z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.xz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.Z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.gz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.bz2
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.7z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.xz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.Z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.gz
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.bz2
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.7z
+
+check_path_E> Path is not a valid UTF8 string: pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.atm.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.pdb.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.ent.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.cif.xz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.Z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.gz
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.bz2
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.7z
+
+check_path_E> Path is not a valid UTF8 string:  -\pdbC:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001.crd.xz
+
+pdbnam_____E> Filename for PDB code not found: C:\Users\ivbie\Documents‚0 - Projetos mestrado\CYFIP2\database\CYFIP2_WT\UKNP.B99990001
+              Directories: 
+              Extensions : ;.atm;.pdb;.ent;.cif;.crd
+              (Also tried prepending 'pdb', looking for .Z, .gz, .bz2, .7z, .xz,
+              and trying PDB-style subdirectories - e.g. ab for pdb1abc.ent)
+
