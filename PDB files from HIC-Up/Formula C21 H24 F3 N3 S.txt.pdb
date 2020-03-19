@@ -1,0 +1,73 @@
+COMPND TFP 10-(3-(4-METHYL-PIPERAZIN-1-YL)-PROPYL)-2- TRIFLUOROMETHYL-10H-PHENOTHIAZINE
+REMARK TFP Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK TFP Extracted from PDB file pdb1lin.ent
+REMARK TFP Formula C21 H24 F3 N3 S
+REMARK TFP Nr of non-hydrogen atoms  28
+REMARK TFP Eigen-values covariance X/Y/Z      355.8     137.1      20.1
+REMARK TFP Residue type TFP
+REMARK TFP Residue name   7194
+REMARK TFP Original residue name (for O) $153
+REMARK TFP  RESOLUTION. 2.00 ANGSTROMS.
+REMARK TFP occurs in        4 other PDB entries
+REMARK TFP Also in 2.0-2.5A  :  1WRK 1CTR
+REMARK TFP Resolution (A)    :  2.15 2.45
+REMARK TFP Also in 2.5-3.0A  :  1WRL 1A29
+REMARK TFP Resolution (A)    :  2.60 2.74
+REMARK TFP
+HETATM    1  C1  TFP  7194       3.763   1.199   0.159  1.00 20.00           C
+HETATM    2  C2  TFP  7194       4.413   0.444   1.092  1.00 20.00           C
+HETATM    3  C3  TFP  7194       3.845  -0.692   1.578  1.00 20.00           C
+HETATM    4  C4  TFP  7194       2.585  -1.078   1.116  1.00 20.00           C
+HETATM    5  C5  TFP  7194       1.925  -0.297   0.160  1.00 20.00           C
+HETATM    6  C6  TFP  7194       2.539   0.856  -0.315  1.00 20.00           C
+HETATM    7  S   TFP  7194       1.880  -2.473   1.735  1.00 20.00           S
+HETATM    8  C7  TFP  7194       0.821  -2.951   0.442  1.00 20.00           C
+HETATM    9  C8  TFP  7194       0.470  -4.299   0.317  1.00 20.00           C
+HETATM   10  C9  TFP  7194      -0.400  -4.678  -0.676  1.00 20.00           C
+HETATM   11  C10 TFP  7194      -0.932  -3.756  -1.550  1.00 20.00           C
+HETATM   12  C11 TFP  7194      -0.607  -2.427  -1.458  1.00 20.00           C
+HETATM   13  C12 TFP  7194       0.280  -2.005  -0.456  1.00 20.00           C
+HETATM   14  N1  TFP  7194       0.657  -0.661  -0.312  1.00 20.00           N
+HETATM   15  C13 TFP  7194      -0.162   0.316  -0.987  1.00 20.00           C
+HETATM   16  C14 TFP  7194      -1.354   0.405  -0.081  1.00 20.00           C
+HETATM   17  C15 TFP  7194      -2.244   1.553  -0.449  1.00 20.00           C
+HETATM   18  N2  TFP  7194      -3.385   1.634   0.453  1.00 20.00           N
+HETATM   19  C16 TFP  7194      -4.265   2.649  -0.117  1.00 20.00           C
+HETATM   20  C17 TFP  7194      -5.692   2.512   0.382  1.00 20.00           C
+HETATM   21  N3  TFP  7194      -6.284   1.225   0.015  1.00 20.00           N
+HETATM   22  C18 TFP  7194      -5.258   0.292  -0.452  1.00 20.00           C
+HETATM   23  C19 TFP  7194      -4.022   0.317   0.430  1.00 20.00           C
+HETATM   24  C20 TFP  7194      -6.845   0.653   1.240  1.00 20.00           C
+HETATM   25  C21 TFP  7194       4.387   2.466  -0.399  1.00 20.00           C
+HETATM   26  F1  TFP  7194       5.622   2.570  -0.178  1.00 20.00           F
+HETATM   27  F2  TFP  7194       3.932   3.589  -0.035  1.00 20.00           F
+HETATM   28  F3  TFP  7194       4.331   2.637  -1.654  1.00 20.00           F
+CONECT    1    2   25    6
+CONECT   11   12   10
+CONECT   12   13   11
+CONECT   13   14    8   12
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   18   16
+CONECT   19   18   20
+CONECT   20   21   19
+CONECT   22   21   23
+CONECT   23   18   22
+CONECT    2    1    3
+CONECT   24   21
+CONECT   25   26   27    1   28
+CONECT    3    4    2
+CONECT    4    5    3    7
+CONECT    5    4   14    6
+CONECT    6    1    5
+CONECT    8    9   13    7
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   26   25
+CONECT   27   25
+CONECT   28   25
+CONECT   14   15   13    5
+CONECT   18   19   23   17
+CONECT   21   22   20   24
+CONECT    7    4    8
+END

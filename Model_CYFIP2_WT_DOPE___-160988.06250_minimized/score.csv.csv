@@ -1,0 +1,21 @@
+Ligand,Target,Binding Energy,Unbound Energy,Date Created,Info
+c16_h15_f6_n5_o,Model_CYFIP2_R87C_DOPE___-161301.70313_minimized,-7.3,,2020.03.17 10:28:20,Vina
+C16_H15_F6_N5_O.txt,Model_CYFIP2_R87C_DOPE___-161301.70313_minimized,-7.2,,2020.03.17 11:36:28,Vina
+C16_H15_F6_N5_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.5,,2020.03.17 17:02:51,Vina
+C28_H27_N_O4_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-8.1,,2020.03.17 17:05:18,Vina
+Formula_C2_H_BR_CL_F3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-4.3,,2020.03.17 17:05:26,Vina
+Formula_C2_H6_O_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-2.8,,2020.03.17 17:05:32,Vina
+Formula_C2_H7_N_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-2.8,,2020.03.17 17:05:38,Vina
+Formula_C3_H2_CL_F5_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-5.3,,2020.03.17 17:05:51,Vina
+Formula_C5_H4_N4_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.2,,2020.03.17 17:06:01,Vina
+Formula_C6_H8_CL_N7_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.6,,2020.03.17 17:06:19,Vina
+Formula_C9_H8_O4.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.7,,2020.03.17 17:06:34,Vina
+Formula_C9_H13_N_O3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.5,,2020.03.17 17:07:01,Vina
+Formula_C9_H15_N_O3_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-5.5,,2020.03.17 17:07:17,Vina
+Formula_C10_H7_N3_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.5,,2020.03.17 17:07:31,Vina
+Formula_C11_H13_I_N4_O4.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.7,,2020.03.17 17:08:15,Vina
+Formula_C12_H11_CL_N2_O5_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.5,,2020.03.17 17:09:00,Vina
+Formula_C13_H18_N4_O3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.3,,2020.03.17 17:09:31,Vina
+Formula_C13_H18_O2.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.4,,2020.03.17 17:09:48,Vina
+Formula_C14_H11_CL2_N_O2.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.0,,2020.03.17 17:10:19,Vina
+Formula_C14_H12_O3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.0,,2020.03.17 17:10:48,Vina

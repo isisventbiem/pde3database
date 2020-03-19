@@ -1,0 +1,131 @@
+COMPND FK5 8-DEETHYL-8-(BUT-3-ENYL)-ASCOMYCIN; K506
+REMARK FK5 Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK FK5 Extracted from PDB file pdb1bkf.ent
+REMARK FK5 Formula C44 H69 N O12
+REMARK FK5 Nr of non-hydrogen atoms  57
+REMARK FK5 Eigen-values covariance X/Y/Z      761.6     555.3     188.9
+REMARK FK5 Residue type FK5
+REMARK FK5 Residue name   3575
+REMARK FK5 Original residue name (for O) $108
+REMARK FK5  RESOLUTION. 1.60 ANGSTROMS.
+REMARK FK5 occurs in        6 other PDB entries
+REMARK FK5 Also in 1.5-2.0A  :  1FKF 1FKJ 2FKE
+REMARK FK5 Resolution (A)    :  1.70 1.70 1.72
+REMARK FK5 Also in 2.0-2.5A  :  1Q6I 1TCO 1YAT
+REMARK FK5 Resolution (A)    :  2.25 2.50 2.50
+REMARK FK5
+HETATM    1  C1  FK5  3575       2.456  -0.849   0.894  1.00 20.00           C
+HETATM    2  C2  FK5  3575       3.758  -1.369   0.345  1.00 20.00           C
+HETATM    3  C3  FK5  3575       4.919  -0.734   1.126  1.00 20.00           C
+HETATM    4  C4  FK5  3575       6.236  -1.274   0.560  1.00 20.00           C
+HETATM    5  C5  FK5  3575       6.354  -0.855  -0.907  1.00 20.00           C
+HETATM    6  C6  FK5  3575       5.195  -1.464  -1.705  1.00 20.00           C
+HETATM    7  C8  FK5  3575       2.973  -0.418  -1.786  1.00 20.00           C
+HETATM    8  C9  FK5  3575       3.004  -0.352  -3.277  1.00 20.00           C
+HETATM    9  C10 FK5  3575       2.056   0.584  -3.995  1.00 20.00           C
+HETATM   10  C11 FK5  3575       2.708   1.077  -5.287  1.00 20.00           C
+HETATM   11  C12 FK5  3575       1.724   2.014  -6.004  1.00 20.00           C
+HETATM   12  C13 FK5  3575       0.410   1.251  -6.217  1.00 20.00           C
+HETATM   13  C14 FK5  3575      -0.098   0.748  -4.863  1.00 20.00           C
+HETATM   14  C15 FK5  3575      -1.398  -0.038  -5.085  1.00 20.00           C
+HETATM   15  C16 FK5  3575      -2.127  -0.227  -3.768  1.00 20.00           C
+HETATM   16  C17 FK5  3575      -3.244   0.755  -3.472  1.00 20.00           C
+HETATM   17  C18 FK5  3575      -4.432  -0.006  -2.868  1.00 20.00           C
+HETATM   18  C19 FK5  3575      -4.682   0.441  -1.449  1.00 20.00           C
+HETATM   19  C20 FK5  3575      -4.551  -0.424  -0.475  1.00 20.00           C
+HETATM   20  C21 FK5  3575      -4.791  -0.073   0.963  1.00 20.00           C
+HETATM   21  C22 FK5  3575      -4.115  -1.093   1.851  1.00 20.00           C
+HETATM   22  C23 FK5  3575      -2.655  -0.953   2.199  1.00 20.00           C
+HETATM   23  C24 FK5  3575      -2.052  -2.344   2.388  1.00 20.00           C
+HETATM   24  C25 FK5  3575      -0.755  -2.520   1.621  1.00 20.00           C
+HETATM   25  C26 FK5  3575       0.204  -1.337   1.751  1.00 20.00           C
+HETATM   26  C27 FK5  3575       0.539  -1.093   3.200  1.00 20.00           C
+HETATM   27  C28 FK5  3575       0.293   0.073   3.742  1.00 20.00           C
+HETATM   28  C29 FK5  3575       0.475   0.269   5.225  1.00 20.00           C
+HETATM   29  C30 FK5  3575       1.640   1.229   5.473  1.00 20.00           C
+HETATM   30  C31 FK5  3575       1.825   1.428   6.979  1.00 20.00           C
+HETATM   31  C32 FK5  3575       0.544   2.015   7.577  1.00 20.00           C
+HETATM   32  C33 FK5  3575      -0.620   1.055   7.328  1.00 20.00           C
+HETATM   33  C34 FK5  3575      -0.805   0.856   5.823  1.00 20.00           C
+HETATM   34  C35 FK5  3575       3.986   1.859  -4.962  1.00 20.00           C
+HETATM   35  C36 FK5  3575      -3.733   1.516  -4.698  1.00 20.00           C
+HETATM   36  C37 FK5  3575      -5.082   1.869  -1.188  1.00 20.00           C
+HETATM   37  C38 FK5  3575      -6.295  -0.103   1.259  1.00 20.00           C
+HETATM   38  C39 FK5  3575      -6.537   0.346   2.677  1.00 20.00           C
+HETATM   39  C40 FK5  3575      -7.358   1.338   2.918  1.00 20.00           C
+HETATM   40  C41 FK5  3575      -1.062  -2.749   0.135  1.00 20.00           C
+HETATM   41  C42 FK5  3575       1.158  -2.191   4.026  1.00 20.00           C
+HETATM   42  C43 FK5  3575      -0.433   1.996  -8.217  1.00 20.00           C
+HETATM   43  C44 FK5  3575      -2.096  -1.788  -6.416  1.00 20.00           C
+HETATM   44  C45 FK5  3575       3.493   1.955   8.463  1.00 20.00           C
+HETATM   45  N7  FK5  3575       3.926  -1.044  -1.079  1.00 20.00           N
+HETATM   46  O1  FK5  3575       1.424  -1.684   1.042  1.00 20.00           O
+HETATM   47  O2  FK5  3575       2.363   0.314   1.216  1.00 20.00           O
+HETATM   48  O3  FK5  3575       2.023   0.091  -1.220  1.00 20.00           O
+HETATM   49  O4  FK5  3575       3.752  -1.038  -3.921  1.00 20.00           O
+HETATM   50  O5  FK5  3575       0.857  -0.126  -4.278  1.00 20.00           O
+HETATM   51  O6  FK5  3575       1.777   1.706  -3.154  1.00 20.00           O
+HETATM   52  O7  FK5  3575      -0.561   2.122  -6.799  1.00 20.00           O
+HETATM   53  O8  FK5  3575      -1.027  -1.343  -5.579  1.00 20.00           O
+HETATM   54  O9  FK5  3575      -4.753  -2.024   2.282  1.00 20.00           O
+HETATM   55  O10 FK5  3575      -1.873  -2.623   3.775  1.00 20.00           O
+HETATM   56  O11 FK5  3575       2.913   2.325   7.211  1.00 20.00           O
+HETATM   57  O12 FK5  3575       0.717   2.200   8.983  1.00 20.00           O
+CONECT    1    2   47   46
+CONECT    9    8   10   50   51
+CONECT   10    9   11   34
+CONECT   11   10   12
+CONECT   12   11   13   52
+CONECT   13   12   14   50
+CONECT   14   13   15   53
+CONECT   15   16   14
+CONECT   16   15   17   35
+CONECT   17   16   18
+CONECT   18   19   17   36
+CONECT    2    1    3   45
+CONECT   19   18   20
+CONECT   20   19   21   37
+CONECT   21   20   22   54
+CONECT   22   21   23
+CONECT   23   22   24   55
+CONECT   24   23   25   40
+CONECT   25   26   24   46
+CONECT   26   25   27   41
+CONECT   27   26   28
+CONECT   28   33   27   29
+CONECT    3    2    4
+CONECT   29   28   30
+CONECT   30   31   56   29
+CONECT   31   32   57   30
+CONECT   32   31   33
+CONECT   33   28   32
+CONECT   34   10
+CONECT   35   16
+CONECT   36   18
+CONECT   37   20   38
+CONECT   38   37   39
+CONECT    4    5    3
+CONECT   39   38
+CONECT   40   24
+CONECT   41   26
+CONECT   42   52
+CONECT   43   53
+CONECT   44   56
+CONECT    5    6    4
+CONECT    6    5   45
+CONECT    7    8   48   45
+CONECT    8    9    7   49
+CONECT   45    2    6    7
+CONECT   46    1   25
+CONECT   55   23
+CONECT   56   44   30
+CONECT   57   31
+CONECT   47    1
+CONECT   48    7
+CONECT   49    8
+CONECT   50    9   13
+CONECT   51    9
+CONECT   52   12   42
+CONECT   53   14   43
+CONECT   54   21
+END

@@ -1,0 +1,83 @@
+COMPND KAN KANAMYCIN A
+REMARK KAN Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK KAN Extracted from PDB file pdb1m4i.ent
+REMARK KAN Formula C18 H36 N4 O11
+REMARK KAN Nr of non-hydrogen atoms  33
+REMARK KAN Eigen-values covariance X/Y/Z      471.4     103.2      48.4
+REMARK KAN Residue type KAN
+REMARK KAN Residue name   4699
+REMARK KAN Original residue name (for O) $500
+REMARK KAN  RESOLUTION. 1.50 ANGSTROMS.
+REMARK KAN occurs in        4 other PDB entries
+REMARK KAN Also in 2.0-2.5A  :  1ND4 1L8T 1KNY
+REMARK KAN Resolution (A)    :  2.10 2.40 2.50
+REMARK KAN Also in 2.5-3.0A  :  2ESI
+REMARK KAN Resolution (A)    :  3.00
+REMARK KAN
+HETATM    1  C1  KAN  4699      -2.635   1.023   0.876  1.00 20.00           C
+HETATM    2  C2  KAN  4699      -3.907   1.300   1.664  1.00 20.00           C
+HETATM    3  C3  KAN  4699      -4.988   0.428   1.029  1.00 20.00           C
+HETATM    4  C4  KAN  4699      -5.250   0.918  -0.378  1.00 20.00           C
+HETATM    5  C5  KAN  4699      -3.970   0.770  -1.148  1.00 20.00           C
+HETATM    6  C6  KAN  4699      -4.112   1.319  -2.595  1.00 20.00           C
+HETATM    7  C7  KAN  4699       0.885  -2.882   0.050  1.00 20.00           C
+HETATM    8  C8  KAN  4699       1.098  -1.396  -0.277  1.00 20.00           C
+HETATM    9  C9  KAN  4699       0.056  -0.564   0.505  1.00 20.00           C
+HETATM   10  C10 KAN  4699      -1.368  -0.991   0.077  1.00 20.00           C
+HETATM   11  C11 KAN  4699      -1.557  -2.502   0.416  1.00 20.00           C
+HETATM   12  C12 KAN  4699      -0.498  -3.343  -0.338  1.00 20.00           C
+HETATM   13  C13 KAN  4699       3.304  -0.492  -0.948  1.00 20.00           C
+HETATM   14  C14 KAN  4699       4.742  -0.828  -0.577  1.00 20.00           C
+HETATM   15  C15 KAN  4699       5.140  -0.036   0.687  1.00 20.00           C
+HETATM   16  C16 KAN  4699       4.985   1.492   0.427  1.00 20.00           C
+HETATM   17  C17 KAN  4699       3.534   1.724   0.102  1.00 20.00           C
+HETATM   18  C18 KAN  4699       3.153   3.193  -0.185  1.00 20.00           C
+HETATM   19  N1  KAN  4699      -2.878   0.897  -3.351  1.00 20.00           N
+HETATM   20  N2  KAN  4699      -2.909  -2.901  -0.012  1.00 20.00           N
+HETATM   21  N3  KAN  4699       1.968  -3.690  -0.655  1.00 20.00           N
+HETATM   22  N4  KAN  4699       6.476  -0.381   1.187  1.00 20.00           N
+HETATM   23  O5  KAN  4699      -2.828   1.314  -0.476  1.00 20.00           O
+HETATM   24  O6  KAN  4699      -3.695   0.885   3.040  1.00 20.00           O
+HETATM   25  O7  KAN  4699      -6.239   0.541   1.761  1.00 20.00           O
+HETATM   26  O8  KAN  4699      -6.190   0.082  -1.026  1.00 20.00           O
+HETATM   27  O9  KAN  4699      -2.328  -0.382   0.963  1.00 20.00           O
+HETATM   28  O10 KAN  4699       0.277   0.862   0.156  1.00 20.00           O
+HETATM   29  O11 KAN  4699       2.416  -0.972   0.119  1.00 20.00           O
+HETATM   30  O12 KAN  4699       3.203   0.923  -1.042  1.00 20.00           O
+HETATM   31  O13 KAN  4699       4.856  -2.202  -0.335  1.00 20.00           O
+HETATM   32  O14 KAN  4699       5.320   2.208   1.591  1.00 20.00           O
+HETATM   33  O15 KAN  4699       3.939   3.684  -1.309  1.00 20.00           O
+CONECT    1   23   27    2
+CONECT   10   27    9   11
+CONECT   11   20   10   12
+CONECT   12   11    7
+CONECT   13   29   30   14
+CONECT   14   31   13   15
+CONECT   15   22   16   14
+CONECT   16   17   32   15
+CONECT   17   30   16   18
+CONECT   18   17   33
+CONECT    2   24    3    1
+CONECT    3   25    2    4
+CONECT    4   26    5    3
+CONECT    5   23    4    6
+CONECT    6   19    5
+CONECT    7   21    8   12
+CONECT    8   29    9    7
+CONECT    9   28    8   10
+CONECT   19    6
+CONECT   20   11
+CONECT   21    7
+CONECT   22   15
+CONECT   28    9
+CONECT   29    8   13
+CONECT   30   17   13
+CONECT   31   14
+CONECT   32   16
+CONECT   33   18
+CONECT   23    5    1
+CONECT   24    2
+CONECT   25    3
+CONECT   26    4
+CONECT   27    1   10
+END

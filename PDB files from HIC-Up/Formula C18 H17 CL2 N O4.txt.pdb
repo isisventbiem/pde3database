@@ -1,0 +1,63 @@
+COMPND 225 FELODIPINE; ETHYL METHYL 4-(2,3-DICHLOROPHENYL)-2,6- DIMETHYLPYRIDINE-3,5-DICARBOXYLATE
+REMARK 225 Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK 225 Extracted from PDB file pdb2nnj.ent
+REMARK 225 Formula C18 H17 CL2 N O4
+REMARK 225 Nr of non-hydrogen atoms  25
+REMARK 225 Eigen-values covariance X/Y/Z      127.7     102.2      49.4
+REMARK 225 Residue type 225
+REMARK 225 Residue name    386
+REMARK 225 Original residue name (for O) $A501
+REMARK 225  RESOLUTION. 2.28 ANGSTROMS.
+REMARK 225 occurs in        0 other PDB entries
+REMARK 225
+HETATM    1  C15 225   386       4.065   2.029   1.620  1.00 20.00           C
+HETATM    2  C14 225   386       2.755   2.813   1.501  1.00 20.00           C
+HETATM    3  O2  225   386       1.761   2.020   0.827  1.00 20.00           O
+HETATM    4  C13 225   386       0.499   2.523   0.676  1.00 20.00           C
+HETATM    5  O1  225   386       0.193   3.623   1.141  1.00 20.00           O
+HETATM    6  C2  225   386      -0.554   1.659  -0.043  1.00 20.00           C
+HETATM    7  C1  225   386      -1.599   2.170  -0.828  1.00 20.00           C
+HETATM    8  C12 225   386      -1.594   3.559  -1.479  1.00 20.00           C
+HETATM    9  N1  225   386      -2.669   1.395  -1.102  1.00 20.00           N
+HETATM   10  C5  225   386      -2.875   0.126  -0.692  1.00 20.00           C
+HETATM   11  C18 225   386      -4.099  -0.591  -1.274  1.00 20.00           C
+HETATM   12  C4  225   386      -1.924  -0.495   0.131  1.00 20.00           C
+HETATM   13  C16 225   386      -2.269  -1.576   1.172  1.00 20.00           C
+HETATM   14  O3  225   386      -3.428  -1.711   1.567  1.00 20.00           O
+HETATM   15  O4  225   386      -1.265  -2.350   1.680  1.00 20.00           O
+HETATM   16  C17 225   386      -1.600  -3.355   2.647  1.00 20.00           C
+HETATM   17  C3  225   386      -0.505   0.119   0.106  1.00 20.00           C
+HETATM   18  C6  225   386       0.578  -0.638  -0.701  1.00 20.00           C
+HETATM   19  C7  225   386       0.493  -0.642  -2.102  1.00 20.00           C
+HETATM   20  C8  225   386       1.438  -1.274  -2.910  1.00 20.00           C
+HETATM   21  C9  225   386       2.506  -1.928  -2.293  1.00 20.00           C
+HETATM   22  C10 225   386       2.616  -1.952  -0.901  1.00 20.00           C
+HETATM   23 CL1  225   386       3.937  -2.872  -0.266  1.00 20.00          Cl
+HETATM   24  C11 225   386       1.662  -1.306  -0.099  1.00 20.00           C
+HETATM   25 CL2  225   386       1.876  -1.346   1.622  1.00 20.00          Cl
+CONECT    7    9    6    8
+CONECT   22   23   21   24
+CONECT   24   18   25   22
+CONECT    8    7
+CONECT    4    6    5    3
+CONECT    2    3    1
+CONECT    1    2
+CONECT   13   12   15   14
+CONECT   16   15
+CONECT   11   10
+CONECT    6    4   17    7
+CONECT   17   12    6   18
+CONECT   12   17   13   10
+CONECT   10   12    9   11
+CONECT   18   17   19   24
+CONECT   19   20   18
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   23   22
+CONECT   25   24
+CONECT    9    7   10
+CONECT    5    4
+CONECT    3    4    2
+CONECT   14   13
+CONECT   15   16   13
+END

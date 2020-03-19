@@ -1,0 +1,477 @@
+MODEL 1
+REMARK VINA RESULT:      -7.7      0.000      0.000
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958      -0.077  42.493 228.158  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958      -0.133  41.591 229.136  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958      -1.384  41.113 229.214  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958      -2.184  41.742 228.259  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958      -3.529  41.686 227.861  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958      -3.922  42.491 226.863  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958      -4.899  42.484 226.568  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958      -3.061  43.296 226.252  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958      -1.786  43.354 226.595  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958      -1.155  43.973 226.087  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958      -1.314  42.608 227.605  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958      -1.976  39.632 230.635  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       1.202  43.261 227.785  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       2.290  42.987 228.743  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       2.802  44.210 229.239  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       1.640  45.225 229.113  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       0.877  44.780 227.849  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       3.192  43.937 230.726  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       2.186  44.454 231.628  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       2.561  45.087 232.229  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       2.119  46.591 229.049  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       1.710  47.167 229.685  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       1.281  45.471 226.627  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       2.006  46.065 226.782  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958      -4.433  40.866 228.427  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958      -4.104  40.028 228.907  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958      -5.437  41.041 228.405  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.0      1.451      2.163
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958      -1.216  42.627 228.917  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958      -0.965  41.745 229.882  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958      -1.900  40.784 229.847  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958      -2.812  41.059 228.827  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958      -3.971  40.459 228.309  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958      -4.586  41.065 227.283  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958      -5.442  40.662 226.902  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958      -4.099  42.182 226.755  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958      -2.999  42.755 227.211  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958      -2.650  43.602 226.763  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958      -2.338  42.235 228.256  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958      -1.923  39.135 231.204  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958      -0.355  43.875 228.662  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       0.640  43.631 227.599  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       1.930  43.966 228.074  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       1.860  43.801 229.612  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       0.413  44.196 229.974  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       2.907  42.944 227.413  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       2.520  41.585 227.719  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       3.002  40.965 227.185  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       2.864  44.598 230.289  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       3.635  44.765 229.760  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       0.251  45.594 230.368  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       1.052  46.089 230.242  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958      -4.487  39.314 228.790  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958      -5.498  39.180 228.763  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958      -3.917  38.565 229.183  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.4      9.574     11.166
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958       1.915  35.597 237.326  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958       2.482  34.394 237.251  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958       2.105  33.807 236.105  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958       1.240  34.654 235.410  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958       0.529  34.612 234.200  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958      -0.227  35.673 233.880  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958      -0.770  35.660 233.016  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958      -0.280  36.740 234.668  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       0.395  36.812 235.802  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       0.341  37.658 236.368  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958       1.150  35.783 236.216  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958       2.759  31.857 235.529  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       2.113  36.556 238.511  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       1.074  37.604 238.530  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       1.690  38.878 238.585  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       3.088  38.688 237.948  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       3.492  37.250 238.332  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       0.780  39.828 237.744  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       1.135  39.777 236.343  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       2.073  39.687 236.232  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       4.029  39.694 238.400  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       4.844  39.331 238.729  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       4.306  37.156 239.542  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       3.818  36.780 240.265  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958       0.573  33.567 233.354  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958       1.101  33.659 232.487  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958       0.104  32.680 233.536  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.1      9.029     10.609
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958       1.489  37.205 235.091  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958       1.156  37.373 233.813  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958       0.668  36.219 233.335  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958       0.701  35.249 234.339  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958       0.349  33.895 234.458  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958       0.549  33.297 235.642  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958       0.321  32.308 235.749  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958       1.039  33.970 236.676  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       1.361  35.249 236.595  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       1.716  35.732 237.419  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958       1.224  35.918 235.440  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958      -0.008  35.986 231.323  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       2.095  38.318 235.964  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       3.135  37.784 236.865  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       2.845  38.163 238.197  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       1.311  38.369 238.243  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       0.953  38.904 236.841  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       3.309  36.970 239.090  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       3.731  35.850 238.279  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       3.335  35.885 237.417  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       0.916  39.256 239.319  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       0.722  38.803 240.132  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       0.895  40.361 236.749  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       0.133  40.651 236.262  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958      -0.178  33.178 233.450  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958      -0.619  32.283 233.660  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958      -0.162  33.486 232.477  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.9     10.396     11.971
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958       1.989  36.180 236.150  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958       1.202  35.874 235.121  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958       1.097  34.539 235.036  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958       1.864  33.947 236.041  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958       2.159  32.640 236.460  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958       2.977  32.488 237.511  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958       3.224  31.548 237.823  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958       3.470  33.539 238.154  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       3.192  34.780 237.793  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       3.577  35.559 238.326  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958       2.409  35.025 236.731  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958      -0.067  33.557 233.539  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       2.345  37.623 236.547  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       3.235  37.650 237.724  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       2.679  38.491 238.717  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       1.153  38.481 238.459  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       1.024  38.348 236.928  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       3.052  37.839 240.085  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       3.944  36.715 239.897  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       4.410  36.513 240.700  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       0.506  39.663 238.993  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       0.430  39.658 239.941  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       0.883  39.620 236.222  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       0.020  39.714 235.837  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958       1.662  31.543 235.860  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958       0.933  31.011 236.335  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958       1.976  31.214 234.947  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.9     11.709     13.230
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958       3.271  35.318 237.406  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958       3.188  34.433 236.414  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958       2.834  33.243 236.922  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958       2.697  33.350 238.307  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958       2.366  32.490 239.366  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958       2.348  32.999 240.606  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958       2.130  32.391 241.396  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958       2.609  34.283 240.823  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       2.905  35.117 239.842  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       3.080  36.100 240.051  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958       2.977  34.685 238.574  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958       2.569  31.499 235.718  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       3.664  36.790 237.200  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       4.270  37.358 238.420  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       3.589  38.546 238.777  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       2.164  38.397 238.191  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       2.365  37.588 236.893  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       3.587  38.585 240.337  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       4.387  37.510 240.883  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       4.314  37.479 241.829  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       1.528  39.683 237.978  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       1.631  40.015 237.093  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       2.504  38.404 235.689  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       3.261  38.976 235.738  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958       2.065  31.190 239.194  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958       2.202  30.546 239.973  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958       1.702  30.811 238.320  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.9     10.573     12.322
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958       1.805  35.513 237.374  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958       1.079  35.749 236.283  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958       1.200  34.708 235.447  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958       2.056  33.758 236.007  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958       2.567  32.504 235.636  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958       3.401  31.889 236.488  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958       3.802  30.986 236.234  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958       3.711  32.436 237.657  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       3.229  33.606 238.038  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       3.478  33.980 238.953  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958       2.414  34.305 237.234  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958       0.215  34.616 233.554  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       1.914  36.498 238.550  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       0.959  37.613 238.405  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       1.651  38.844 238.508  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       3.104  38.539 238.068  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       3.351  37.091 238.538  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       0.929  39.823 237.531  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       1.221  39.488 236.154  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       0.833  38.655 235.917  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       4.047  39.494 238.615  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       3.939  39.643 239.547  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       3.991  36.984 239.848  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       3.833  37.754 240.380  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958       2.260  31.895 234.476  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958       2.541  32.335 233.600  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958       1.758  31.009 234.426  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.6      3.987      6.140
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958      -2.228  40.796 229.470  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958      -3.403  40.932 228.859  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958      -3.247  41.722 227.787  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958      -1.916  42.135 227.702  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958      -1.153  42.943 226.844  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958       0.150  43.098 227.122  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958       0.722  43.697 226.526  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958       0.707  42.486 228.160  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       0.016  41.705 228.971  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       0.487  41.238 229.745  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958      -1.301  41.519 228.787  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958      -4.854  42.237 226.478  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958      -2.026  39.964 230.747  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958      -0.874  39.050 230.615  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958      -1.281  37.730 230.922  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958      -2.798  37.684 230.615  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958      -3.302  39.101 230.956  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958      -0.457  36.799 229.979  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       0.245  37.570 228.975  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958      -0.192  38.398 228.815  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958      -3.469  36.636 231.360  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958      -4.283  36.350 230.961  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958      -3.834  39.242 232.310  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958      -3.886  38.405 232.756  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958      -1.664  43.561 225.764  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958      -2.154  43.004 225.065  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958      -1.589  44.566 225.607  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.6      9.577     11.116
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5'_3  and  O5'_1 
+REMARK    2  A    between atoms: C4'_4  and  C5'_3 
+REMARK    3  A    between atoms: C1'_6  and  N9_7 
+REMARK    4  A    between atoms: C6_11  and  N6_18 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_24  and  O3'_25 
+ROOT
+HETATM    1  N9  5ID   958       1.186  35.813 236.182  1.00 20.00    -0.311 N 
+HETATM    2  C8  5ID   958       1.124  36.617 235.123  1.00 20.00     0.114 A 
+HETATM    3  C7  5ID   958       0.783  35.893 234.047  1.00 20.00     0.040 A 
+HETATM    4  C5  5ID   958       0.633  34.555 234.414  1.00 20.00     0.070 A 
+HETATM    5  C6  5ID   958       0.305  33.353 233.768  1.00 20.00     0.115 A 
+HETATM    6  N1  5ID   958       0.271  32.233 234.506  1.00 20.00    -0.338 N 
+ATOM      7  H1  5ID   958       0.055  31.343 234.056  1.00  0.00     0.168 HD
+HETATM    8  C2  5ID   958       0.512  32.264 235.811  1.00 20.00     0.183 A 
+HETATM    9  N3  5ID   958       0.804  33.386 236.446  1.00 20.00    -0.338 N 
+ATOM     10  H3  5ID   958       0.964  33.368 237.453  1.00  0.00     0.168 HD
+HETATM   11  C4  5ID   958       0.893  34.547 235.780  1.00 20.00     0.126 A 
+HETATM   12  IAE 5ID   958       0.552  36.742 232.101  1.00 20.00    -0.042 I 
+ENDROOT
+BRANCH   1  13
+HETATM   13  C1' 5ID   958       1.561  36.295 237.594  1.00 20.00     0.261 C 
+HETATM   14  O4' 5ID   958       0.629  37.337 238.068  1.00 20.00    -0.353 OA
+HETATM   15  C4' 5ID   958       1.365  38.474 238.483  1.00 20.00     0.179 C 
+HETATM   16  C3' 5ID   958       2.688  38.424 237.681  1.00 20.00     0.182 C 
+HETATM   17  C2' 5ID   958       2.982  36.919 237.519  1.00 20.00     0.198 C 
+BRANCH  15  18
+HETATM   18  C5' 5ID   958       0.489  39.709 238.105  1.00 20.00     0.198 C 
+BRANCH  18  19
+HETATM   19  O5' 5ID   958       0.860  40.229 236.807  1.00 20.00    -0.398 OA
+ATOM     20  H5' 5ID   958       0.898  39.535 236.160  1.00  0.00     0.209 HD
+ENDBRANCH  18  19
+ENDBRANCH  15  18
+BRANCH  16  21
+HETATM   21  O3' 5ID   958       3.751  39.153 238.346  1.00 20.00    -0.390 OA
+ATOM     22  H3' 5ID   958       4.571  38.675 238.386  1.00  0.00     0.210 HD
+ENDBRANCH  16  21
+BRANCH  17  23
+HETATM   23  O2' 5ID   958       3.870  36.365 238.539  1.00 20.00    -0.388 OA
+ATOM     24  H2' 5ID   958       3.728  36.770 239.386  1.00  0.00     0.210 HD
+ENDBRANCH  17  23
+ENDBRANCH   1  13
+BRANCH   5  25
+HETATM   25  N6  5ID   958       0.024  33.274 232.455  1.00 20.00    -0.385 N 
+ATOM     26  H62 5ID   958      -0.941  33.116 232.167  1.00  0.00     0.157 HD
+ATOM     27  H61 5ID   958       0.731  33.365 231.725  1.00  0.00     0.157 HD
+ENDBRANCH   5  25
+TORSDOF 6
+ENDMDL

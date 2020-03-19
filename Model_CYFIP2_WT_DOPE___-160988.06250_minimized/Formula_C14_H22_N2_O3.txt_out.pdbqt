@@ -1,0 +1,531 @@
+MODEL 1
+REMARK VINA RESULT:      -6.0      0.000      0.000
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575      -2.800  40.784 229.055  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575      -3.000  41.801 228.065  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575      -1.946  42.694 227.685  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -0.657  42.575 228.305  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -0.453  41.576 229.279  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575      -1.509  40.689 229.651  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575       0.393  43.413 227.980  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575       0.330  44.833 228.285  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575       0.368  45.124 229.792  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575       1.594  44.448 230.421  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575       2.793  44.873 229.699  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575       2.804  45.782 229.236  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575       3.970  44.020 229.631  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575       4.464  43.663 231.039  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575       3.609  42.754 228.851  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575       0.386  46.545 230.051  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -0.494  46.901 230.078  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575      -3.936  39.823 229.476  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575      -3.620  38.822 230.601  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575      -3.708  39.116 231.825  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575      -3.249  37.618 230.127  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575      -3.178  37.380 229.138  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575      -3.039  36.954 230.873  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.0      2.231      7.128
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       1.844  43.621 229.226  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575       1.761  42.400 228.482  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575       0.531  41.674 228.367  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -0.651  42.176 229.009  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -0.577  43.378 229.742  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575       0.653  44.095 229.850  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575      -1.863  41.514 228.934  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -2.031  40.206 229.545  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -3.504  39.791 229.675  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -3.637  38.666 230.711  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -3.687  39.255 232.048  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575      -4.145  40.157 232.183  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575      -3.096  38.575 233.191  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575      -3.389  37.070 233.139  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575      -1.586  38.829 233.181  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -4.334  40.915 230.041  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -3.810  41.692 230.198  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       3.171  44.404 229.362  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       4.162  43.914 230.432  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       3.962  44.062 231.670  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       5.244  43.319 229.896  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       5.405  43.200 228.897  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       5.901  42.995 230.606  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.7      2.915      6.968
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       1.874  43.502 229.178  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575       1.831  42.314 228.379  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575       0.656  41.497 228.312  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -0.510  41.870 229.061  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -0.476  43.039 229.849  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575       0.700  43.848 229.908  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575      -1.669  41.117 229.038  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -1.935  40.133 230.075  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -2.027  38.700 229.532  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -1.409  37.721 230.540  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -0.028  37.443 230.147  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575       0.388  37.964 229.375  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575       0.760  36.435 230.839  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575       1.062  36.875 232.278  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575      -0.018  35.118 230.833  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -3.395  38.335 229.248  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -3.860  38.098 230.042  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       3.142  44.383 229.261  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       4.194  43.992 230.313  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       4.093  44.305 231.532  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       5.213  43.288 229.784  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       5.295  43.036 228.800  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       5.910  43.029 230.482  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.7      2.684      7.000
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       1.764  44.003 229.208  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575       1.272  44.756 228.093  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575       0.047  44.408 227.435  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -0.710  43.279 227.898  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -0.233  42.535 228.995  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575       0.989  42.890 229.646  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575      -1.895  42.896 227.298  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -2.019  42.874 225.849  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -3.478  42.818 225.374  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -4.139  41.528 225.879  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -4.668  41.760 227.222  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575      -4.881  42.712 227.521  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575      -4.895  40.654 228.140  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575      -4.680  39.309 227.434  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575      -3.937  40.798 229.324  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -4.219  43.974 225.821  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -5.154  43.809 225.809  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       3.089  44.368 229.916  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       4.247  43.363 229.788  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       4.237  42.407 228.963  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       5.252  43.624 230.646  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       5.260  44.396 231.312  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       6.019  42.958 230.560  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.5      2.576      6.740
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575      -0.105  43.670 228.186  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575      -0.073  43.088 229.495  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575      -1.059  42.137 229.917  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -2.106  41.753 229.012  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -2.142  42.321 227.723  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575      -1.155  43.267 227.311  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575      -3.085  40.844 229.368  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -2.848  39.415 229.250  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -2.678  38.722 230.610  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -1.198  38.391 230.843  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -1.104  37.167 231.638  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575      -1.920  36.842 232.157  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575       0.134  36.405 231.700  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575       0.831  36.390 230.333  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575       1.042  37.036 232.758  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -3.188  39.543 231.683  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -3.355  40.430 231.387  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       0.950  44.703 227.729  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       1.768  45.399 228.831  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       2.870  44.952 229.253  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       1.174  46.522 229.280  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       0.283  46.883 228.940  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       1.716  46.983 230.011  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.4      7.455      9.882
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       2.846  38.721 237.945  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575       1.618  39.449 237.827  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575       0.761  39.292 236.690  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575       1.133  38.387 235.640  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575       2.340  37.666 235.751  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575       3.188  37.827 236.889  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575       0.346  38.201 234.518  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -1.103  38.171 234.627  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -1.808  38.693 233.366  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -1.315  37.918 232.137  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -1.234  36.497 232.473  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575      -1.960  36.075 233.052  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575      -0.133  35.674 231.994  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575       0.984  36.548 231.408  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575       0.396  34.838 233.162  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -3.243  38.587 233.488  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -3.555  39.021 234.274  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       3.780  38.892 239.166  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       3.798  37.750 240.196  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       4.809  37.478 240.900  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       2.625  37.091 240.253  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       1.808  37.311 239.683  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       2.637  36.334 240.936  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.4      7.493      9.016
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       0.441  35.636 232.154  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575       0.137  34.972 233.386  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575       0.438  35.570 234.654  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575       1.059  36.863 234.698  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575       1.359  37.523 233.489  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575       1.055  36.921 232.231  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575       1.376  37.484 235.893  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575       0.340  37.789 236.866  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575       0.585  39.113 237.605  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575       1.626  38.904 238.713  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575       1.716  37.476 239.018  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575       0.864  36.918 239.059  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575       3.002  36.841 239.262  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575       3.362  35.886 238.116  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575       4.065  37.931 239.407  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575       1.016  40.148 236.695  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575       1.958  40.268 236.732  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       0.128  34.993 230.783  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       0.628  35.738 229.533  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       0.416  36.967 229.337  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       1.306  34.933 228.693  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       1.476  33.941 228.851  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       1.637  35.428 227.864  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.4      2.220      6.695
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       0.761  43.146 228.139  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575      -0.317  43.407 227.233  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575      -1.631  42.883 227.461  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -1.882  42.077 228.622  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -0.826  41.817 229.519  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575       0.481  42.344 229.284  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575      -3.129  41.542 228.888  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -4.030  41.187 227.803  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -4.625  39.780 227.956  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -4.195  39.178 229.301  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -2.850  38.621 229.163  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575      -2.422  38.564 228.239  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575      -2.111  38.149 230.325  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575      -0.606  38.100 230.028  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575      -2.396  39.087 231.499  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -6.065  39.807 227.852  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -6.371  39.235 227.158  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       2.184  43.700 227.894  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       3.170  43.634 229.073  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       3.950  42.660 229.261  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       3.100  44.723 229.863  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       2.469  45.510 229.711  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       3.754  44.679 230.644  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.4      2.727      7.316
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_6  and  C11_2 
+REMARK       I    between atoms: C11_2  and  N2_3 
+REMARK    2  A    between atoms: C10_6  and  C7_7 
+REMARK    3  A    between atoms: C4_10  and  O2_13 
+REMARK    4  A    between atoms: C1_14  and  O2_13 
+REMARK    5  A    between atoms: C1_14  and  C2_15 
+REMARK    6  A    between atoms: C2_15  and  C3_18 
+REMARK    7  A    between atoms: C2_15  and  O3_16 
+REMARK    8  A    between atoms: C3_18  and  N1_19 
+REMARK    9  A    between atoms: C12_21  and  N1_19 
+ROOT
+HETATM    1  C7  2TN   575       0.714  43.101 228.309  1.00 20.00    -0.049 A 
+HETATM    2  C8  2TN   575       0.343  42.469 229.540  1.00 20.00     0.010 A 
+HETATM    3  C9  2TN   575      -0.985  41.975 229.759  1.00 20.00     0.037 A 
+HETATM    4  C4  2TN   575      -1.972  42.113 228.725  1.00 20.00     0.068 A 
+HETATM    5  C5  2TN   575      -1.613  42.733 227.511  1.00 20.00     0.037 A 
+HETATM    6  C6  2TN   575      -0.287  43.221 227.301  1.00 20.00     0.010 A 
+ENDROOT
+BRANCH   4   7
+HETATM    7  O2  2TN   575      -3.268  41.659 228.885  1.00 20.00    -0.349 OA
+BRANCH   7   8
+HETATM    8  C1  2TN   575      -3.654  40.339 228.413  1.00 20.00     0.209 C 
+BRANCH   8   9
+HETATM    9  C2  2TN   575      -5.175  40.171 228.285  1.00 20.00     0.159 C 
+BRANCH   9  10
+HETATM   10  C3  2TN   575      -5.677  40.918 227.041  1.00 20.00     0.147 C 
+BRANCH  10  11
+HETATM   11  N1  2TN   575      -4.565  41.082 226.105  1.00 20.00    -0.415 N 
+ATOM     12  H1  2TN   575      -3.777  40.436 226.144  1.00  0.00     0.153 HD
+BRANCH  11  13
+HETATM   13  C12 2TN   575      -4.566  42.153 225.120  1.00 20.00     0.068 C 
+HETATM   14  C13 2TN   575      -4.729  43.518 225.801  1.00 20.00     0.031 C 
+HETATM   15  C14 2TN   575      -3.251  42.097 224.338  1.00 20.00     0.031 C 
+ENDBRANCH  11  13
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+BRANCH   9  16
+HETATM   16  O3  2TN   575      -5.543  38.776 228.219  1.00 20.00    -0.392 OA
+ATOM     17  H3  2TN   575      -6.414  38.633 228.571  1.00  0.00     0.210 HD
+ENDBRANCH   9  16
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  18
+HETATM   18  C10 2TN   575       2.141  43.645 228.070  1.00 20.00     0.141 C 
+BRANCH  18  19
+HETATM   19  C11 2TN   575       2.650  44.719 229.047  1.00 20.00     0.219 C 
+HETATM   20  O1  2TN   575       3.683  44.565 229.757  1.00 20.00    -0.273 OA
+HETATM   21  N2  2TN   575       1.876  45.820 229.050  1.00 20.00    -0.370 N 
+ATOM     22  H22 2TN   575       1.041  45.944 228.476  1.00  0.00     0.159 HD
+ATOM     23  H21 2TN   575       2.213  46.532 229.698  1.00  0.00     0.159 HD
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 9
+ENDMDL

@@ -1,0 +1,83 @@
+COMPND TAC TETRACYCLINE
+REMARK TAC Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK TAC Extracted from PDB file pdb2hcj.ent
+REMARK TAC Formula C22 H24 N2 O8
+REMARK TAC Nr of non-hydrogen atoms  32
+REMARK TAC Eigen-values covariance X/Y/Z      354.6      69.8      64.3
+REMARK TAC Residue type TAC
+REMARK TAC Residue name   7101
+REMARK TAC Original residue name (for O) $888
+REMARK TAC  RESOLUTION. 2.12 ANGSTROMS.
+REMARK TAC occurs in        5 other PDB entries
+REMARK TAC Also in 2.0-2.5A  :  2TRT
+REMARK TAC Resolution (A)    :  2.50
+REMARK TAC Also in 2.5-3.0A  :  2UXO 2HDN
+REMARK TAC Resolution (A)    :  2.70 2.80
+REMARK TAC Also in    >3.0A  :  1HNW 1I97
+REMARK TAC Resolution (A)    :  3.40 4.50
+REMARK TAC
+HETATM    1  C1  TAC  7101       2.124  -1.385   0.076  1.00 20.00           C
+HETATM    2  O1  TAC  7101       1.814  -2.570   0.362  1.00 20.00           O
+HETATM    3  C2  TAC  7101       3.242  -0.710   0.774  1.00 20.00           C
+HETATM    4  C21 TAC  7101       4.036  -1.435   1.820  1.00 20.00           C
+HETATM    5  O21 TAC  7101       4.955  -0.844   2.468  1.00 20.00           O
+HETATM    6  N21 TAC  7101       3.738  -2.728   2.061  1.00 20.00           N
+HETATM    7  C3  TAC  7101       3.535   0.675   0.488  1.00 20.00           C
+HETATM    8  O3  TAC  7101       4.420   1.274   1.120  1.00 20.00           O
+HETATM    9  C4  TAC  7101       2.735   1.484  -0.588  1.00 20.00           C
+HETATM   10  N4  TAC  7101       3.729   1.829  -1.676  1.00 20.00           N
+HETATM   11  C42 TAC  7101       3.222   1.666  -3.076  1.00 20.00           C
+HETATM   12  C43 TAC  7101       4.148   3.256  -1.514  1.00 20.00           C
+HETATM   13  C41 TAC  7101       1.319   0.923  -0.859  1.00 20.00           C
+HETATM   14  C5  TAC  7101       0.402   1.268   0.355  1.00 20.00           C
+HETATM   15  C51 TAC  7101      -1.053   0.928   0.130  1.00 20.00           C
+HETATM   16  C6  TAC  7101      -1.900   0.917   1.434  1.00 20.00           C
+HETATM   17  C62 TAC  7101      -1.663   2.156   2.303  1.00 20.00           C
+HETATM   18  O6  TAC  7101      -1.538  -0.234   2.231  1.00 20.00           O
+HETATM   19  C61 TAC  7101      -3.383   0.762   0.931  1.00 20.00           C
+HETATM   20  C7  TAC  7101      -4.455   1.536   1.456  1.00 20.00           C
+HETATM   21  C8  TAC  7101      -5.761   1.366   0.963  1.00 20.00           C
+HETATM   22  C9  TAC  7101      -6.035   0.427  -0.063  1.00 20.00           C
+HETATM   23  C10 TAC  7101      -4.996  -0.365  -0.616  1.00 20.00           C
+HETATM   24  O10 TAC  7101      -5.265  -1.274  -1.614  1.00 20.00           O
+HETATM   25  C1A TAC  7101      -3.654  -0.207  -0.127  1.00 20.00           C
+HETATM   26  C11 TAC  7101      -2.562  -0.985  -0.679  1.00 20.00           C
+HETATM   27  O11 TAC  7101      -2.797  -2.105  -1.236  1.00 20.00           O
+HETATM   28  C1B TAC  7101      -1.237  -0.469  -0.601  1.00 20.00           C
+HETATM   29  C12 TAC  7101      -0.126  -1.183  -1.162  1.00 20.00           C
+HETATM   30  O12 TAC  7101      -0.319  -2.359  -1.791  1.00 20.00           O
+HETATM   31  C1C TAC  7101       1.336  -0.657  -1.072  1.00 20.00           C
+HETATM   32  O1C TAC  7101       1.989  -0.958  -2.300  1.00 20.00           O
+CONECT    1    2   31    3
+CONECT   23   24   22   25
+CONECT   26   28   25   27
+CONECT   29   31   28   30
+CONECT   25   23   19   26
+CONECT   28   26   29   15
+CONECT   31    1   13   32   29
+CONECT    3    1    4    7
+CONECT    4    6    3    5
+CONECT    7    8    3    9
+CONECT    9   13   10    7
+CONECT   13   31    9   14
+CONECT   11   10
+CONECT   12   10
+CONECT   14   13   15
+CONECT   15   28   14   16
+CONECT   16   18   19   15   17
+CONECT   19   20   25   16
+CONECT   17   16
+CONECT   20   19   21
+CONECT   21   22   20
+CONECT   22   23   21
+CONECT    6    4
+CONECT   10   12    9   11
+CONECT    2    1
+CONECT   24   23
+CONECT   27   26
+CONECT   30   29
+CONECT   32   31
+CONECT    5    4
+CONECT    8    7
+CONECT   18   16
+END

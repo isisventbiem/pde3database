@@ -1,0 +1,108 @@
+MODEL 1
+REMARK VINA RESULT:      -2.6      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       0.688  41.512 228.313  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092      -0.121  42.261 229.269  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       1.949  42.774 227.890  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092      -0.161  41.693 226.702  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -2.4      1.636      2.172
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       0.075  41.050 228.320  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092      -0.243  42.182 229.186  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092      -0.718  41.600 226.760  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092      -1.224  39.803 228.645  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -2.4      2.129      2.129
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       1.815  42.213 228.174  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092       1.647  43.601 227.756  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       3.579  42.232 228.672  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       2.164  41.276 226.642  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -2.4      2.282      2.392
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       1.942  42.667 227.549  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092       0.928  43.304 226.715  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       2.188  41.101 226.628  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       1.021  41.835 228.894  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -2.3      2.554      2.687
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       2.439  41.971 228.350  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092       3.657  42.765 228.482  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       3.083  40.538 227.405  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       1.565  42.652 226.893  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.3      1.409      2.304
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       0.503  41.662 227.980  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092      -0.508  41.882 229.010  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       0.455  39.833 227.859  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       2.107  41.650 228.861  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.3      1.945      2.599
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       1.378  41.982 227.004  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092       0.711  43.201 226.554  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       0.280  41.501 228.391  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       2.708  42.538 228.132  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.2      9.867      9.994
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       1.830  37.562 236.549  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092       1.876  37.361 235.104  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       1.705  35.823 237.118  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       0.077  37.911 236.943  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -2.1      2.609      2.722
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  S   DMS  3092       2.433  42.028 227.706  1.00 20.00     0.006 S 
+HETATM    2  O   DMS  3092       2.587  40.598 227.453  1.00 20.00    -0.259 OA
+HETATM    3  C1  DMS  3092       3.868  42.322 228.809  1.00 20.00     0.126 C 
+HETATM    4  C2  DMS  3092       1.235  42.157 229.084  1.00 20.00     0.126 C 
+ENDROOT
+TORSDOF 0
+ENDMDL

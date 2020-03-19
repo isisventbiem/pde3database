@@ -1,0 +1,65 @@
+COMPND EHD 4-ETHYL-4-HYDROXY-1,12-DIHYDRO-4H-2-OXA-6,12A-DIAZA- DIBENZO(B,H)FLUORENE-3,13-DIONE; CAMPTOTHECIN
+REMARK EHD Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK EHD Extracted from PDB file pdb1t8i.ent
+REMARK EHD Formula C20 H16 N2 O4
+REMARK EHD Nr of non-hydrogen atoms  26
+REMARK EHD Eigen-values covariance X/Y/Z      338.2      65.7       9.9
+REMARK EHD Residue type EHD
+REMARK EHD Residue name   3335
+REMARK EHD Original residue name (for O) $990
+REMARK EHD  RESOLUTION. 3.00 ANGSTROMS.
+REMARK EHD occurs in        0 other PDB entries
+REMARK EHD
+HETATM    1  O18 EHD  3335      -1.603  -3.394  -0.290  1.00 20.00           O
+HETATM    2  C14 EHD  3335      -1.359  -2.067  -0.220  1.00 20.00           C
+HETATM    3  C15 EHD  3335      -2.377  -1.174  -0.162  1.00 20.00           C
+HETATM    4  C19 EHD  3335      -3.763  -1.737  -0.192  1.00 20.00           C
+HETATM    5  O22 EHD  3335      -4.604  -0.953   0.707  1.00 20.00           O
+HETATM    6  C20 EHD  3335      -4.488   0.446   0.832  1.00 20.00           C
+HETATM    7  O23 EHD  3335      -5.272   1.080   1.668  1.00 20.00           O
+HETATM    8  C16 EHD  3335      -2.213   0.269  -0.067  1.00 20.00           C
+HETATM    9  C17 EHD  3335      -0.848   0.665  -0.030  1.00 20.00           C
+HETATM   10  C21 EHD  3335      -3.449   1.184   0.019  1.00 20.00           C
+HETATM   11  O24 EHD  3335      -3.183   2.306   0.706  1.00 20.00           O
+HETATM   12  C25 EHD  3335      -4.016   1.525  -1.380  1.00 20.00           C
+HETATM   13  C31 EHD  3335      -3.958   3.051  -1.752  1.00 20.00           C
+HETATM   14  N12 EHD  3335      -0.056  -1.598  -0.181  1.00 20.00           N
+HETATM   15  C11 EHD  3335       1.121  -2.446  -0.223  1.00 20.00           C
+HETATM   16  C8  EHD  3335       2.212  -1.430  -0.119  1.00 20.00           C
+HETATM   17  C7  EHD  3335       3.548  -1.499  -0.082  1.00 20.00           C
+HETATM   18  C6  EHD  3335       4.331  -0.342   0.027  1.00 20.00           C
+HETATM   19  C5  EHD  3335       3.655   0.938   0.106  1.00 20.00           C
+HETATM   20  N10 EHD  3335       2.210   1.074   0.070  1.00 20.00           N
+HETATM   21  C9  EHD  3335       1.563  -0.102  -0.041  1.00 20.00           C
+HETATM   22  C13 EHD  3335       0.199  -0.287  -0.086  1.00 20.00           C
+HETATM   23  C1  EHD  3335       5.729  -0.401   0.060  1.00 20.00           C
+HETATM   24  C2  EHD  3335       6.464   0.763   0.168  1.00 20.00           C
+HETATM   25  C3  EHD  3335       5.799   2.019   0.249  1.00 20.00           C
+HETATM   26  C4  EHD  3335       4.359   2.109   0.212  1.00 20.00           C
+CONECT   23   18   24
+CONECT   15   14   16
+CONECT   22   14   21    9
+CONECT    2   14    3    1
+CONECT    3    4    8    2
+CONECT    8    3    9   10
+CONECT    9   22    8
+CONECT    4    3    5
+CONECT   24   25   23
+CONECT    6    7    5   10
+CONECT   10    8   12    6   11
+CONECT   12   13   10
+CONECT   25   26   24
+CONECT   13   12
+CONECT   26   19   25
+CONECT   19   26   18   20
+CONECT   18   19   17   23
+CONECT   17   16   18
+CONECT   16   21   17   15
+CONECT   21   22   16   20
+CONECT   20   19   21
+CONECT   14   22    2   15
+CONECT    1    2
+CONECT    5    4    6
+CONECT    7    6
+CONECT   11   10
+END

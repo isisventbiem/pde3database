@@ -1,0 +1,23 @@
+COMPND DHL 2-AMINO-ETHANETHIOL; 2,3-DESHYDROLANTHIONINE
+REMARK DHL Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK DHL Extracted from PDB file pdb1qow.ent
+REMARK DHL Formula C2 H7 N S
+REMARK DHL Nr of non-hydrogen atoms   4
+REMARK DHL Eigen-values covariance X/Y/Z        5.9       1.5       0.0
+REMARK DHL Residue type DHL
+REMARK DHL Residue name   3014
+REMARK DHL Original residue name (for O) $A20
+REMARK DHL  RESOLUTION. 1.06 ANGSTROMS.
+REMARK DHL occurs in        1 other PDB entries
+REMARK DHL Also in 2.0-2.5A  :  5APR
+REMARK DHL Resolution (A)    :  2.10
+REMARK DHL
+HETATM    1  N   DHL  3014      -1.467  -0.674   0.029  1.00 20.00           N
+HETATM    2  CA  DHL  3014      -0.755   0.546  -0.066  1.00 20.00           C
+HETATM    3  CB  DHL  3014       0.531   0.685   0.061  1.00 20.00           C
+HETATM    4  SG  DHL  3014       1.691  -0.557  -0.024  1.00 20.00           S
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    1    2
+CONECT    4    3
+END

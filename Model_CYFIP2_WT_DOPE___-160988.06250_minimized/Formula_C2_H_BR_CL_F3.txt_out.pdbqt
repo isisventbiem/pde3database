@@ -1,0 +1,162 @@
+MODEL 1
+REMARK VINA RESULT:      -4.3      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       2.552  43.387 227.105  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       2.682  42.994 228.358  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       3.762  42.241 228.453  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       1.616  42.312 228.733  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       2.818  44.177 229.299  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       4.441  43.869 230.432  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       1.473  44.228 230.447  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.2      2.564      2.819
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       3.852  42.805 229.480  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       3.499  43.966 229.996  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       4.580  44.710 230.139  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       2.912  43.784 231.164  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       2.512  44.695 229.102  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       0.708  44.575 229.963  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       2.327  43.858 227.554  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.1      1.717      2.208
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       1.528  41.949 228.312  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       2.517  42.821 228.329  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       2.450  43.555 227.234  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       3.676  42.193 228.387  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       2.434  43.732 229.540  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       1.537  45.428 228.966  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       4.048  44.234 230.065  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.1      2.459      2.725
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       3.837  42.999 229.352  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       2.963  43.816 229.907  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       3.064  44.998 229.327  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       3.199  43.922 231.201  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       1.544  43.305 229.745  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       1.410  42.443 227.942  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       0.392  44.647 229.688  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.0      2.520      2.828
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       2.099  43.315 230.261  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       2.963  43.665 229.327  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       3.851  42.697 229.191  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       3.564  44.791 229.663  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       2.276  43.897 227.994  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       0.958  45.385 228.240  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       1.293  42.499 227.538  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.0      2.296      2.613
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       2.241  45.626 229.043  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       1.530  44.552 229.329  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       0.735  44.290 228.309  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       0.819  44.757 230.422  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       2.419  43.350 229.586  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       4.183  44.027 230.251  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       2.802  42.513 228.074  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.9      2.288      2.650
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       3.719  42.378 228.615  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       2.704  43.140 228.259  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       2.524  43.021 226.957  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       2.949  44.398 228.573  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       1.428  42.735 228.973  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238      -0.050  42.727 227.622  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       0.948  43.962 230.155  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.8      2.775      3.143
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       2.367  45.030 229.211  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       1.526  44.393 230.003  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       0.457  45.148 230.176  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       2.099  44.140 231.165  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       1.101  43.063 229.408  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       2.427  42.581 227.987  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238      -0.439  43.218 228.550  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.7      9.541      9.957
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_5  and  C2_2 
+ROOT
+HETATM    1  F1  HLT  4238       0.874  39.321 238.964  1.00 20.00    -0.168 F 
+HETATM    2  C2  HLT  4238       1.660  39.358 237.905  1.00 20.00     0.413 C 
+HETATM    3  F2  HLT  4238       2.893  39.607 238.305  1.00 20.00    -0.168 F 
+HETATM    4  F3  HLT  4238       1.253  40.296 237.070  1.00 20.00    -0.168 F 
+ENDROOT
+BRANCH   2   5
+HETATM    5  C1  HLT  4238       1.640  38.041 237.152  1.00 20.00     0.261 C 
+HETATM    6 BR   HLT  4238       3.503  37.304 237.166  1.00 20.00    -0.065 Br
+HETATM    7 CL   HLT  4238       1.272  38.297 235.440  1.00 20.00    -0.103 Cl
+ENDBRANCH   2   5
+TORSDOF 1
+ENDMDL

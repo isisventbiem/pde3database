@@ -1,0 +1,243 @@
+MODEL 1
+REMARK VINA RESULT:      -5.3      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       2.428  43.510 229.443  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       0.790  44.080 229.947  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.348  42.915 228.041  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       2.535  43.902 227.183  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       3.319  42.030 227.869  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       1.168  42.326 227.834  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       3.342  44.611 229.469  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415       4.372  44.251 230.394  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415       3.804  43.705 231.490  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415       5.235  43.390 229.809  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.1      2.108      3.094
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       2.768  44.344 229.231  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       4.175  44.297 230.363  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.706  43.037 228.447  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       3.825  42.378 228.690  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       1.692  42.300 228.876  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       2.568  43.266 227.138  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       1.564  44.537 229.980  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415       0.842  45.576 229.311  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415       1.724  46.460 228.799  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415       0.064  45.043 228.342  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.0      1.918      2.442
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       2.263  44.140 228.597  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       2.764  42.473 228.114  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       0.946  44.072 229.362  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415      -0.024  44.329 228.501  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       0.761  42.850 229.838  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       0.927  44.949 230.369  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       3.286  44.725 229.411  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415       3.902  43.643 230.114  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415       5.229  43.658 229.863  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415       3.653  43.754 231.438  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.7      1.508      1.741
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       1.793  44.752 229.458  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       1.062  46.351 229.046  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       1.014  43.644 228.757  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415      -0.195  44.112 228.502  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       1.593  43.344 227.604  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       0.944  42.548 229.518  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       3.164  44.738 229.047  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415       3.884  44.071 230.088  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415       3.103  44.008 231.188  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415       4.249  42.836 229.675  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.7      1.760      2.663
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       2.203  43.668 229.422  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       0.446  43.397 229.738  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.669  42.729 228.313  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       2.773  43.446 227.208  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       3.867  42.244 228.605  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       1.810  41.721 228.143  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       2.412  45.033 229.044  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415       1.116  45.575 228.779  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415       1.084  46.857 229.204  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415       0.844  45.491 227.457  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.6      2.201      3.515
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       0.988  44.037 228.928  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       0.763  45.774 229.368  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.444  43.797 228.541  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       3.174  44.694 229.181  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       2.826  42.594 228.941  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       2.616  43.903 227.221  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       0.623  43.215 230.041  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415      -0.447  42.382 229.587  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415      -1.613  42.875 230.054  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415      -0.445  42.328 228.236  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.6      2.382      3.953
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       1.283  43.395 229.103  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       0.676  44.667 227.974  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.558  43.886 229.781  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       3.511  43.011 229.510  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       2.917  45.057 229.276  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       2.387  44.004 231.101  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       0.276  43.106 230.078  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415      -0.532  42.066 229.520  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415       0.261  41.223 228.825  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415      -1.190  41.417 230.507  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.5      2.356      3.339
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       1.340  42.318 228.447  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       0.046  42.724 227.256  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.647  42.978 228.020  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       2.653  44.202 228.520  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       3.676  42.319 228.532  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       2.758  43.012 226.689  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       0.950  42.775 229.746  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415      -0.260  43.515 229.560  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415      -1.284  42.820 230.099  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415      -0.144  44.736 230.131  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.5      2.360      3.932
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_5  and  CAJ_2 
+REMARK    2  A    between atoms: CAI_5  and  OAG_7 
+REMARK    3  A    between atoms: CAH_8  and  OAG_7 
+ROOT
+HETATM    1  CAI ICF  4415       1.672  43.161 229.347  1.00 20.00     0.330 C 
+HETATM    2 CLAF ICF  4415       1.564  41.861 228.099  1.00 20.00    -0.086 Cl
+ENDROOT
+BRANCH   1   3
+HETATM    3  CAJ ICF  4415       2.525  44.307 228.813  1.00 20.00     0.427 C 
+HETATM    4  FAE ICF  4415       2.548  44.200 227.496  1.00 20.00    -0.167 F 
+HETATM    5  FAC ICF  4415       1.968  45.468 229.123  1.00 20.00    -0.167 F 
+HETATM    6  FAD ICF  4415       3.764  44.260 229.311  1.00 20.00    -0.167 F 
+ENDBRANCH   1   3
+BRANCH   1   7
+HETATM    7  OAG ICF  4415       0.355  43.623 229.666  1.00 20.00    -0.302 OA
+BRANCH   7   8
+HETATM    8  CAH ICF  4415      -0.490  43.179 228.601  1.00 20.00     0.501 C 
+HETATM    9  FAB ICF  4415      -1.662  42.756 229.122  1.00 20.00    -0.185 F 
+HETATM   10  FAA ICF  4415      -0.682  44.185 227.718  1.00 20.00    -0.185 F 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL

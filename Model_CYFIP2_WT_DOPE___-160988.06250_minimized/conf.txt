@@ -1,0 +1,8 @@
+receptor = Model_CYFIP2_WT_DOPE___-160988.06250_minimized.pdbqt
+exhaustiveness  = 8
+center_x = 0.566208896131
+center_y = 39.0283360376
+center_z = 231.383744983
+size_x = 20.9957261361
+size_y = 19.1714372015
+size_z = 19.7676684796

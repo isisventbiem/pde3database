@@ -1,0 +1,135 @@
+MODEL 1
+REMARK VINA RESULT:      -2.6      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014       0.512  42.546 229.620  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       1.367  41.956 228.659  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       2.501  42.444 228.252  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       4.018  42.215 228.988  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -2.5      1.738      1.738
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014      -0.157  42.034 229.060  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       1.247  42.194 229.151  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       2.046  42.449 228.158  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       1.886  41.875 226.564  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -2.3      2.255      2.259
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014      -0.169  42.104 229.065  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       0.024  40.837 228.462  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       1.093  40.454 227.830  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       1.967  41.362 226.687  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -2.2      4.248      4.437
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014      -0.541  41.762 228.924  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014      -1.320  40.624 228.605  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014      -1.972  40.439 227.496  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014      -1.771  41.316 226.052  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -2.2      2.662      2.811
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014       4.007  42.710 228.715  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       2.684  42.476 228.269  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       1.723  41.965 228.980  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       0.328  41.197 228.382  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.2      2.791      2.870
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014       1.634  43.412 227.800  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       2.363  42.239 227.489  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       2.036  41.359 226.590  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       0.561  40.515 226.498  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.2      9.071      9.267
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014       1.773  37.221 235.063  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       1.681  37.774 236.362  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       0.645  37.703 237.144  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014      -0.968  38.032 236.712  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.2      9.087      9.232
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014      -0.942  38.550 236.810  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       0.146  37.652 236.934  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       1.344  37.845 236.469  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       2.796  37.312 237.178  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -2.2      2.152      2.215
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+ROOT
+HETATM    1  N   DHL  3014       2.118  41.297 226.189  1.00 20.00    -0.114 NA
+HETATM    2  CA  DHL  3014       1.772  42.443 226.945  1.00 20.00     0.111 C 
+ENDROOT
+BRANCH   2   3
+HETATM    3  CB  DHL  3014       2.314  42.799 228.072  1.00 20.00     0.095 C 
+HETATM    4  SG  DHL  3014       3.649  42.061 228.825  1.00 20.00    -0.092 SA
+ENDBRANCH   2   3
+TORSDOF 1
+ENDMDL

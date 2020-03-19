@@ -1,0 +1,288 @@
+MODEL 1
+REMARK VINA RESULT:      -5.5      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       1.799  43.227 229.423  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       2.166  44.619 229.940  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       1.585  45.588 228.903  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       0.294  44.920 228.421  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       0.520  43.488 228.728  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085      -0.412  42.536 228.504  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085      -0.202  41.377 228.867  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085      -1.716  42.899 227.786  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085      -2.804  41.895 228.185  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085      -1.501  42.893 226.271  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085      -3.035  42.505 225.358  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       2.849  42.744 228.397  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       3.952  42.370 228.842  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       2.518  42.765 227.190  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.9      9.323     10.255
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       1.476  39.083 236.967  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       2.835  39.068 237.668  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       3.215  37.586 237.754  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       2.654  36.961 236.473  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       1.576  37.900 236.084  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       0.843  37.748 234.960  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       0.025  38.612 234.641  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       1.022  36.493 234.098  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085       1.036  36.900 232.619  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085      -0.108  35.498 234.376  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085       0.515  33.921 235.055  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       0.342  38.861 237.993  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085      -0.238  37.757 237.970  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       0.084  39.806 238.772  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.8      9.651     10.545
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       2.790  37.753 237.088  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       3.818  36.743 237.599  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       3.118  35.383 237.490  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       2.239  35.492 236.240  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       2.047  36.953 236.090  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       1.360  37.499 235.063  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       1.313  38.725 234.940  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       0.628  36.592 234.067  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085       1.099  36.926 232.647  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085      -0.885  36.782 234.196  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085      -1.540  36.073 235.748  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       1.831  38.164 238.229  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       0.632  37.846 238.108  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       2.327  38.791 239.193  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.7      9.384     10.277
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       2.709  36.869 236.946  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       3.340  35.499 237.195  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       2.238  34.491 236.852  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       1.467  35.131 235.693  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       1.765  36.574 235.846  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       1.314  37.509 234.982  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       1.672  38.682 235.108  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       0.346  37.111 233.863  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085       1.120  37.015 232.543  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085      -0.786  38.135 233.756  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085      -1.439  38.268 232.055  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       1.915  37.327 238.191  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       2.568  37.576 239.223  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       0.671  37.413 238.074  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.5     11.195     12.152
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       2.673  38.456 237.532  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       3.569  39.114 238.582  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       3.291  38.338 239.875  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       3.035  36.897 239.423  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       2.621  37.057 238.009  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       2.344  36.008 237.205  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       2.095  36.199 236.013  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       2.323  34.588 237.783  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085       3.253  33.696 236.953  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085       0.894  34.039 237.778  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085      -0.130  34.766 239.104  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       1.254  39.067 237.582  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       0.369  38.404 238.158  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       1.093  40.183 237.039  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.5     10.520     11.229
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       2.143  37.182 239.140  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       2.741  38.479 239.688  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       3.566  39.051 238.529  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       2.786  38.670 237.266  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       1.984  37.504 237.705  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       1.101  36.878 236.896  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       0.395  35.973 237.346  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       0.995  37.284 235.423  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085      -0.248  38.162 235.234  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085       0.920  36.038 234.537  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085       0.644  36.456 232.780  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       3.151  36.021 239.295  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       3.442  35.669 240.455  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       3.607  35.517 238.243  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.3     10.064     10.707
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       1.989  37.482 238.330  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       1.630  38.922 238.701  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       1.405  39.628 237.359  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       0.787  38.560 236.451  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       1.224  37.291 237.078  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       0.850  36.078 236.614  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       1.168  35.061 237.233  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       0.047  35.974 235.312  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085      -1.422  35.699 235.651  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085       0.619  34.863 234.430  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085       0.223  35.112 232.663  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       3.501  37.369 238.027  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       3.832  37.193 236.838  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       4.285  37.459 238.999  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.3     11.398     12.200
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       1.959  37.715 238.920  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       1.398  39.019 238.350  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       2.031  39.142 236.959  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       2.146  37.702 236.450  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       2.143  36.903 237.698  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       2.179  35.552 237.701  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       2.078  34.940 238.767  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085       2.361  34.791 236.384  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085       0.999  34.265 235.916  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085       3.351  33.639 236.575  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085       2.913  32.179 235.568  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       3.335  37.967 239.578  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       3.366  38.740 240.556  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       4.321  37.378 239.080  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.2     10.848     11.446
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_4  and  C9_2 
+REMARK       I    between atoms: C4_9  and  N_8 
+REMARK    2  A    between atoms: C2_11  and  C4_9 
+REMARK    3  A    between atoms: C1_13  and  C2_11 
+ROOT
+HETATM    1  C8  MCO  5085       2.322  37.208 238.976  1.00 20.00     0.188 C 
+HETATM    2  C7  MCO  5085       2.733  38.667 239.174  1.00 20.00     0.038 C 
+HETATM    3  C6  MCO  5085       2.165  39.403 237.955  1.00 20.00     0.022 C 
+HETATM    4  C5  MCO  5085       0.849  38.685 237.639  1.00 20.00     0.127 C 
+HETATM    5  N   MCO  5085       1.041  37.349 238.250  1.00 20.00    -0.337 N 
+HETATM    6  C4  MCO  5085       0.081  36.398 238.246  1.00 20.00     0.225 C 
+HETATM    7  O1  MCO  5085       0.264  35.340 238.852  1.00 20.00    -0.273 OA
+ENDROOT
+BRANCH   6   8
+HETATM    8  C2  MCO  5085      -1.223  36.634 237.475  1.00 20.00     0.084 C 
+HETATM    9  C3  MCO  5085      -2.402  36.139 238.321  1.00 20.00     0.020 C 
+BRANCH   8  10
+HETATM   10  C1  MCO  5085      -1.177  35.908 236.129  1.00 20.00     0.099 C 
+HETATM   11  S   MCO  5085      -1.058  37.067 234.723  1.00 20.00    -0.097 SA
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+BRANCH   1  12
+HETATM   12  C9  MCO  5085       3.344  36.482 238.073  1.00 20.00     0.196 C 
+HETATM   13  O3  MCO  5085       3.566  35.279 238.316  1.00 20.00    -0.646 OA
+HETATM   14  O2  MCO  5085       3.879  37.154 237.162  1.00 20.00    -0.646 OA
+ENDBRANCH   1  12
+TORSDOF 3
+ENDMDL

@@ -1,0 +1,87 @@
+COMPND MT1 N-(4-(((2,4-DIAMINOPTERIDIN-1-IUM-6-YL) METHYL)(METHYL)AMINO)BENZOYL)-L-GLUTAMIC ACID; METHOTREXATE PROTONATED AT N1
+REMARK MT1 Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK MT1 Extracted from PDB file pdb2inq.ent
+REMARK MT1 Formula C20 H23 N8 O5 1+
+REMARK MT1 Nr of non-hydrogen atoms  37
+REMARK MT1 Eigen-values covariance X/Y/Z      743.2     177.6      66.0
+REMARK MT1 Residue type MT1
+REMARK MT1 Residue name   5342
+REMARK MT1 Original residue name (for O) $1146
+REMARK MT1  RESOLUTION. 2.20 ANGSTROMS.
+REMARK MT1 occurs in        0 other PDB entries
+REMARK MT1
+HETATM    1  N1  MT1  5342       3.944  -1.516  -1.561  1.00 20.00           N
+HETATM    2  C2  MT1  5342       4.844  -2.238  -0.915  1.00 20.00           C
+HETATM    3  NA2 MT1  5342       5.181  -3.407  -1.379  1.00 20.00           N
+HETATM    4  N3  MT1  5342       5.389  -1.693   0.200  1.00 20.00           N
+HETATM    5  C4  MT1  5342       5.063  -0.532   0.797  1.00 20.00           C
+HETATM    6  NA4 MT1  5342       5.605  -0.120   1.857  1.00 20.00           N
+HETATM    7  C4A MT1  5342       4.042   0.192   0.062  1.00 20.00           C
+HETATM    8  N5  MT1  5342       3.599   1.359   0.596  1.00 20.00           N
+HETATM    9  C6  MT1  5342       2.666   2.035  -0.109  1.00 20.00           C
+HETATM   10  C7  MT1  5342       2.196   1.493  -1.327  1.00 20.00           C
+HETATM   11  N8  MT1  5342       2.584   0.342  -1.811  1.00 20.00           N
+HETATM   12  C8A MT1  5342       3.566  -0.312  -1.067  1.00 20.00           C
+HETATM   13  C9  MT1  5342       2.181   3.300   0.472  1.00 20.00           C
+HETATM   14  N10 MT1  5342       0.866   3.757  -0.130  1.00 20.00           N
+HETATM   15  CM  MT1  5342       0.879   5.057  -0.864  1.00 20.00           C
+HETATM   16  C11 MT1  5342      -2.665   1.501   0.132  1.00 20.00           C
+HETATM   17  C12 MT1  5342      -2.638   2.755  -0.554  1.00 20.00           C
+HETATM   18  C13 MT1  5342      -1.474   3.486  -0.598  1.00 20.00           C
+HETATM   19  C14 MT1  5342      -0.303   2.998   0.026  1.00 20.00           C
+HETATM   20  C15 MT1  5342      -0.352   1.773   0.711  1.00 20.00           C
+HETATM   21  C16 MT1  5342      -1.491   1.040   0.772  1.00 20.00           C
+HETATM   22  C   MT1  5342      -3.950   0.736   0.198  1.00 20.00           C
+HETATM   23  O   MT1  5342      -5.004   1.257  -0.270  1.00 20.00           O
+HETATM   24  N   MT1  5342      -3.939  -0.464   0.725  1.00 20.00           N
+HETATM   25  CA  MT1  5342      -5.128  -1.338   0.926  1.00 20.00           C
+HETATM   26  CT  MT1  5342      -4.785  -2.092   2.214  1.00 20.00           C
+HETATM   27  O1  MT1  5342      -3.564  -2.151   2.593  1.00 20.00           O
+HETATM   28  O2  MT1  5342      -5.757  -2.603   2.813  1.00 20.00           O
+HETATM   29  CB  MT1  5342      -5.261  -2.378  -0.205  1.00 20.00           C
+HETATM   30  CG  MT1  5342      -5.774  -1.799  -1.564  1.00 20.00           C
+HETATM   31  CD  MT1  5342      -7.174  -1.161  -1.435  1.00 20.00           C
+HETATM   32  OE1 MT1  5342      -7.416  -0.268  -2.377  1.00 20.00           O
+HETATM   33  OE2 MT1  5342      -7.995  -1.497  -0.513  1.00 20.00           O
+HETATM   34 HA21 MT1  5342       4.750  -3.697  -2.149  1.00 20.00           H
+HETATM   35 HA22 MT1  5342       5.668  -3.771  -0.856  1.00 20.00           H
+HETATM   36 HA41 MT1  5342       6.356  -0.715   2.315  1.00 20.00           H
+HETATM   37 HA42 MT1  5342       5.290   0.671   2.276  1.00 20.00           H
+CONECT   22   16   23   24
+CONECT   16   21   17   22
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20   14
+CONECT   20   21   19
+CONECT   21   16   20
+CONECT    2    3    1    4
+CONECT    5    7    4    6
+CONECT    7    8    5   12
+CONECT    9   13    8   10
+CONECT   10    9   11
+CONECT   12   11    7    1
+CONECT   13    9   14
+CONECT   25   24   29   26
+CONECT   29   25   30
+CONECT   31   33   30   32
+CONECT   30   29   31
+CONECT   15   14
+CONECT   26   25   28   27
+CONECT   34    3
+CONECT   35    3
+CONECT   36    6
+CONECT   37    6
+CONECT   24   22   25
+CONECT    1    2   12
+CONECT   14   13   15   19
+CONECT    4    2    5
+CONECT    8    9    7
+CONECT   11   10   12
+CONECT    3    2   35   34
+CONECT    6    5   37   36
+CONECT   23   22
+CONECT   27   26
+CONECT   28   26
+CONECT   32   31
+CONECT   33   31
+END

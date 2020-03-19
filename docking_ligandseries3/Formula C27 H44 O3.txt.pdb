@@ -1,0 +1,77 @@
+COMPND VDX 5-(2-(1-(5-HYDROXY-1,5-DIMETHYL-HEXYL)-7A-METHYL- OCTAHYDRO-INDEN-4-YLIDENE)-ETHYLIDENE)-4-METHYLENE- CYCLOHEXANE-1,3-DIOL; 1,25 DIHYDROXY VITAMIN D3
+REMARK VDX Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK VDX Extracted from PDB file pdb1ie9.ent
+REMARK VDX Formula C27 H44 O3
+REMARK VDX Nr of non-hydrogen atoms  30
+REMARK VDX Eigen-values covariance X/Y/Z      612.7      99.2      37.0
+REMARK VDX Residue type VDX
+REMARK VDX Residue name   7622
+REMARK VDX Original residue name (for O) $500
+REMARK VDX  RESOLUTION. 1.40 ANGSTROMS.
+REMARK VDX occurs in        3 other PDB entries
+REMARK VDX Also in 1.5-2.0A  :  1DB1
+REMARK VDX Resolution (A)    :  1.80
+REMARK VDX Also in 2.0-2.5A  :  1RK3 2HC4
+REMARK VDX Resolution (A)    :  2.20 2.20
+REMARK VDX
+HETATM    1  O2  VDX  7622       7.327  -0.016   0.320  1.00 20.00           O
+HETATM    2  O3  VDX  7622      -7.752  -1.822   0.335  1.00 20.00           O
+HETATM    3  C1  VDX  7622       5.338  -2.108   0.807  1.00 20.00           C
+HETATM    4  C2  VDX  7622       6.566  -2.257  -0.117  1.00 20.00           C
+HETATM    5  C3  VDX  7622       6.912  -0.867  -0.729  1.00 20.00           C
+HETATM    6  C4  VDX  7622       5.667  -0.265  -1.394  1.00 20.00           C
+HETATM    7  C5  VDX  7622       4.409  -0.237  -0.571  1.00 20.00           C
+HETATM    8  C6  VDX  7622       3.636   0.870  -0.625  1.00 20.00           C
+HETATM    9  C7  VDX  7622       2.416   1.179   0.142  1.00 20.00           C
+HETATM   10  C8  VDX  7622       1.400   1.995  -0.166  1.00 20.00           C
+HETATM   11  C9  VDX  7622       1.342   2.840  -1.429  1.00 20.00           C
+HETATM   12  C10 VDX  7622       4.115  -1.483   0.167  1.00 20.00           C
+HETATM   13  C11 VDX  7622       0.104   2.389  -2.235  1.00 20.00           C
+HETATM   14  C12 VDX  7622      -1.175   2.374  -1.354  1.00 20.00           C
+HETATM   15  C13 VDX  7622      -1.050   1.541  -0.049  1.00 20.00           C
+HETATM   16  C14 VDX  7622       0.197   2.151   0.700  1.00 20.00           C
+HETATM   17  C15 VDX  7622       0.169   1.577   2.105  1.00 20.00           C
+HETATM   18  C16 VDX  7622      -1.359   1.474   2.331  1.00 20.00           C
+HETATM   19  C17 VDX  7622      -2.131   1.807   1.022  1.00 20.00           C
+HETATM   20  C18 VDX  7622      -0.863   0.019  -0.338  1.00 20.00           C
+HETATM   21  C19 VDX  7622       2.881  -2.084   0.137  1.00 20.00           C
+HETATM   22  C20 VDX  7622      -3.435   0.972   0.943  1.00 20.00           C
+HETATM   23  C21 VDX  7622      -4.294   1.242   2.229  1.00 20.00           C
+HETATM   24  C22 VDX  7622      -4.185   1.063  -0.351  1.00 20.00           C
+HETATM   25  C23 VDX  7622      -5.479   0.136  -0.336  1.00 20.00           C
+HETATM   26  C24 VDX  7622      -5.396  -1.372  -0.246  1.00 20.00           C
+HETATM   27  C25 VDX  7622      -6.702  -2.165  -0.542  1.00 20.00           C
+HETATM   28  C26 VDX  7622      -7.153  -1.983  -1.963  1.00 20.00           C
+HETATM   29  C27 VDX  7622      -6.506  -3.655  -0.241  1.00 20.00           C
+HETATM   30  O1  VDX  7622       4.999  -3.316   1.448  1.00 20.00           O
+CONECT    3   30    4   12
+CONECT   12    3    7   21
+CONECT   13   14   11
+CONECT   14   15   13
+CONECT   15   14   20   19   16
+CONECT   16   15   10   17
+CONECT   17   18   16
+CONECT   18   19   17
+CONECT   19   15   18   22
+CONECT   20   15
+CONECT   21   12
+CONECT    4    3    5
+CONECT   22   24   23   19
+CONECT   23   22
+CONECT   24   25   22
+CONECT   25   26   24
+CONECT   26   25   27
+CONECT   27   26    2   29   28
+CONECT   28   27
+CONECT   29   27
+CONECT    5    1    4    6
+CONECT    6    7    5
+CONECT    7    8    6   12
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10   11    9   16
+CONECT   11   10   13
+CONECT   30    3
+CONECT    1    5
+CONECT    2   27
+END

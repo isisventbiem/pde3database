@@ -1,0 +1,81 @@
+COMPND VIA 5-(2-ETHOXY-5-((4-METHYLPIPERAZIN-1-YL) SULFONYL)PHENYL)-1-METHYL-3-PROPYL-1H,6H,7H- PYRAZOLO(4,3-D)PYRIMIDIN-7-ONE; SILDENAFIL, VIAGRA
+REMARK VIA Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK VIA Extracted from PDB file pdb1tbf.ent
+REMARK VIA Formula C22 H30 N6 O4 S
+REMARK VIA Nr of non-hydrogen atoms  33
+REMARK VIA Eigen-values covariance X/Y/Z      347.3     203.2      45.0
+REMARK VIA Residue type VIA
+REMARK VIA Residue name   7634
+REMARK VIA Original residue name (for O) $501
+REMARK VIA  RESOLUTION. 1.30 ANGSTROMS.
+REMARK VIA occurs in        3 other PDB entries
+REMARK VIA Also in 2.0-2.5A  :  1XOS 1UDT 2H42
+REMARK VIA Resolution (A)    :  2.28 2.30 2.30
+REMARK VIA
+HETATM    1  C34 VIA  7634      -1.126   5.079  -2.009  1.00 20.00           C
+HETATM    2  C33 VIA  7634      -1.923   3.879  -1.552  1.00 20.00           C
+HETATM    3  C32 VIA  7634      -1.997   3.652   0.009  1.00 20.00           C
+HETATM    4  C30 VIA  7634      -2.857   2.516   0.316  1.00 20.00           C
+HETATM    5  N29 VIA  7634      -4.169   2.590   0.637  1.00 20.00           N
+HETATM    6  N28 VIA  7634      -4.680   1.361   0.864  1.00 20.00           N
+HETATM    7  C31 VIA  7634      -6.058   1.094   1.226  1.00 20.00           C
+HETATM    8  C24 VIA  7634      -3.680   0.422   0.692  1.00 20.00           C
+HETATM    9  C23 VIA  7634      -3.698  -0.992   0.816  1.00 20.00           C
+HETATM   10  O27 VIA  7634      -4.646  -1.718   1.107  1.00 20.00           O
+HETATM   11  N22 VIA  7634      -2.446  -1.553   0.549  1.00 20.00           N
+HETATM   12  C21 VIA  7634      -1.335  -0.784   0.215  1.00 20.00           C
+HETATM   13  N26 VIA  7634      -1.285   0.526   0.095  1.00 20.00           N
+HETATM   14  C25 VIA  7634      -2.504   1.118   0.341  1.00 20.00           C
+HETATM   15  C9  VIA  7634      -0.129  -1.606  -0.004  1.00 20.00           C
+HETATM   16  C8  VIA  7634       1.001  -1.111   0.671  1.00 20.00           C
+HETATM   17  C7  VIA  7634       2.251  -1.751   0.596  1.00 20.00           C
+HETATM   18  C6  VIA  7634       2.314  -2.897  -0.173  1.00 20.00           C
+HETATM   19  C5  VIA  7634       1.229  -3.382  -0.819  1.00 20.00           C
+HETATM   20  C4  VIA  7634      -0.030  -2.735  -0.744  1.00 20.00           C
+HETATM   21  O3  VIA  7634      -1.136  -3.129  -1.337  1.00 20.00           O
+HETATM   22  C2  VIA  7634      -1.184  -4.431  -2.021  1.00 20.00           C
+HETATM   23  C1  VIA  7634      -2.586  -4.618  -2.469  1.00 20.00           C
+HETATM   24  S10 VIA  7634       3.635  -1.130   1.424  1.00 20.00           S
+HETATM   25  O11 VIA  7634       3.336  -0.680   2.678  1.00 20.00           O
+HETATM   26  O12 VIA  7634       4.650  -2.087   1.345  1.00 20.00           O
+HETATM   27  N14 VIA  7634       4.093   0.176   0.583  1.00 20.00           N
+HETATM   28  C19 VIA  7634       4.780   1.310   1.152  1.00 20.00           C
+HETATM   29  C18 VIA  7634       4.354   2.669   0.542  1.00 20.00           C
+HETATM   30  N17 VIA  7634       4.265   2.641  -0.916  1.00 20.00           N
+HETATM   31  C20 VIA  7634       3.860   3.889  -1.524  1.00 20.00           C
+HETATM   32  C16 VIA  7634       3.551   1.488  -1.437  1.00 20.00           C
+HETATM   33  C15 VIA  7634       4.148   0.191  -0.853  1.00 20.00           C
+CONECT   23   22
+CONECT   33   32   27
+CONECT   32   30   33
+CONECT   29   30   28
+CONECT   28   29   27
+CONECT   22   21   23
+CONECT   31   30
+CONECT   12   11   13   15
+CONECT    9   10   11    8
+CONECT    8    9    6   14
+CONECT   14    8    4   13
+CONECT    4    3    5   14
+CONECT    7    6
+CONECT    3    4    2
+CONECT    2    3    1
+CONECT    1    2
+CONECT   20   21   15   19
+CONECT   19   20   18
+CONECT   18   17   19
+CONECT   17   16   18   24
+CONECT   16   17   15
+CONECT   15   20   12   16
+CONECT   27   33   28   24
+CONECT   30   29   32   31
+CONECT   11   12    9
+CONECT   13   12   14
+CONECT    6    7    8    5
+CONECT    5    4    6
+CONECT   25   24
+CONECT   26   24
+CONECT   10    9
+CONECT   21   20   22
+CONECT   24   17   25   26   27
+END
