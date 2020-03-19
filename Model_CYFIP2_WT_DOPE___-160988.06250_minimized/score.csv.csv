@@ -1,21 +1,163 @@
-Ligand,Target,Binding Energy,Unbound Energy,Date Created,Info
-c16_h15_f6_n5_o,Model_CYFIP2_R87C_DOPE___-161301.70313_minimized,-7.3,,2020.03.17 10:28:20,Vina
-C16_H15_F6_N5_O.txt,Model_CYFIP2_R87C_DOPE___-161301.70313_minimized,-7.2,,2020.03.17 11:36:28,Vina
-C16_H15_F6_N5_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.5,,2020.03.17 17:02:51,Vina
-C28_H27_N_O4_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-8.1,,2020.03.17 17:05:18,Vina
-Formula_C2_H_BR_CL_F3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-4.3,,2020.03.17 17:05:26,Vina
-Formula_C2_H6_O_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-2.8,,2020.03.17 17:05:32,Vina
-Formula_C2_H7_N_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-2.8,,2020.03.17 17:05:38,Vina
-Formula_C3_H2_CL_F5_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-5.3,,2020.03.17 17:05:51,Vina
-Formula_C5_H4_N4_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.2,,2020.03.17 17:06:01,Vina
-Formula_C6_H8_CL_N7_O.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.6,,2020.03.17 17:06:19,Vina
-Formula_C9_H8_O4.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.7,,2020.03.17 17:06:34,Vina
-Formula_C9_H13_N_O3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.5,,2020.03.17 17:07:01,Vina
-Formula_C9_H15_N_O3_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-5.5,,2020.03.17 17:07:17,Vina
-Formula_C10_H7_N3_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.5,,2020.03.17 17:07:31,Vina
-Formula_C11_H13_I_N4_O4.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.7,,2020.03.17 17:08:15,Vina
-Formula_C12_H11_CL_N2_O5_S.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.5,,2020.03.17 17:09:00,Vina
-Formula_C13_H18_N4_O3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.3,,2020.03.17 17:09:31,Vina
-Formula_C13_H18_O2.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.4,,2020.03.17 17:09:48,Vina
-Formula_C14_H11_CL2_N_O2.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-6.0,,2020.03.17 17:10:19,Vina
-Formula_C14_H12_O3.txt,Model_CYFIP2_WT_DOPE___-160988.06250_minimized,-7.0,,2020.03.17 17:10:48,Vina
+Ligand,Binding Affinity,rmsd/ub, rmsd/lb
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-7.5,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-7.2,6.914,2.131
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-7.1,7.444,5.433
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-6.8,8.777,6.334
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-6.8,7.772,3.894
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-6.7,8.46,5.858
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-6.6,7.882,5.588
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-6.6,7.357,4.913
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C16_H15_F6_N5_O.txt,-6.5,8.894,6.505
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-8.1,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-8.0,7.722,3.408
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.9,10.376,4.001
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.8,10.998,6.215
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.7,7.199,3.998
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.6,3.392,2.359
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.6,10.877,4.803
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.4,7.19,3.663
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_C28_H27_N_O4_S.txt,-7.4,9.223,4.298
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-6.5,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-6.3,5.733,2.788
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-6.3,2.134,1.589
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-5.7,9.029,8.223
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-5.7,5.904,2.391
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-5.7,9.216,8.497
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-5.6,5.704,2.774
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-5.3,10.485,9.5
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C10_H7_N3_S.txt,-5.3,9.599,8.262
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-7.7,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-7.0,2.163,1.451
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-6.4,11.166,9.574
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-6.1,10.609,9.029
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-5.9,11.971,10.396
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-5.9,13.23,11.709
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-5.9,12.322,10.573
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-5.6,6.14,3.987
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C11_H13_I_N4_O4.txt,-5.6,11.116,9.577
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-6.5,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-6.3,10.316,9.055
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-6.0,13.775,12.085
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-5.7,12.882,10.784
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-5.5,5.135,3.418
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-5.5,12.468,10.323
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-5.4,11.529,9.264
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-5.3,10.862,8.749
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C12_H11_CL_N2_O5_S.txt,-5.2,12.541,11.006
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-6.3,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-6.3,2.845,0.824
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.7,5.528,2.777
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.5,12.859,10.755
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.5,10.956,8.504
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.4,11.084,8.632
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.4,11.023,8.97
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.4,13.079,10.406
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_N4_O3.txt,-5.2,13.089,10.905
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-6.4,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-6.4,1.761,0.616
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-6.1,1.878,1.381
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-5.8,12.688,11.465
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-5.8,13.391,11.584
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-5.6,2.17,1.801
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-5.6,6.191,3.399
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-5.6,10.575,8.678
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C13_H18_O2.txt,-5.5,2.95,2.374
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-6.0,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.9,8.614,6.471
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.8,4.009,2.848
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.6,3.833,2.438
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.6,2.445,1.239
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.6,5.557,2.662
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.5,4.907,3.334
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.4,8.342,6.389
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H11_CL2_N_O2.txt,-5.3,5.082,2.375
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-7.0,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-7.0,2.069,0.346
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.8,7.677,2.088
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.8,7.715,2.053
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.6,2.464,0.725
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.5,10.808,8.405
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.5,10.362,7.796
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.3,8.7,7.944
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C14_H12_O3.txt,-6.1,10.829,8.122
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.8,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.7,2.07,1.518
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.6,1.864,1.338
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.6,2.44,2.402
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.4,3.489,3.088
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.3,2.123,2.123
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.2,3.109,2.95
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.1,10.137,10.063
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H6_O_S.txt,-2.1,10.202,10.065
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.8,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.7,1.803,1.803
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.6,2.217,2.18
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.5,3.377,3.117
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.5,3.268,3.206
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.4,3.385,3.16
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.4,2.68,2.606
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-2.0,2.795,2.607
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H7_N_S.txt,-1.9,10.731,10.698
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-4.3,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-4.2,2.819,2.564
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-4.1,2.208,1.717
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-4.1,2.725,2.459
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-4.0,2.828,2.52
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-4.0,2.613,2.296
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-3.9,2.65,2.288
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-3.8,3.143,2.775
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C2_H_BR_CL_F3.txt,-3.7,9.957,9.541
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-5.3,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-5.1,3.094,2.108
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-5.0,2.442,1.918
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-4.7,1.741,1.508
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-4.7,2.663,1.76
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-4.6,3.515,2.201
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-4.6,3.953,2.382
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-4.5,3.339,2.356
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C3_H2_CL_F5_O.txt,-4.5,3.932,2.36
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-6.2,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-6.1,3.192,2.41
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-6.1,1.704,1.622
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-6.0,3.46,2.267
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-5.9,2.518,1.768
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-5.9,2.228,2.046
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-5.8,3.28,2.754
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-5.8,2.771,2.115
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C5_H4_N4_O.txt,-5.7,3.771,2.507
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-7.6,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-6.5,2.842,2.103
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-6.4,5.852,2.692
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-6.3,3.306,2.2
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-6.2,3.686,2.648
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-6.1,5.851,2.865
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-5.6,9.398,7.398
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-5.5,5.894,2.984
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C6_H8_CL_N7_O.txt,-5.3,6.637,3.046
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-6.5,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-6.0,1.921,1.738
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.8,5.579,2.607
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.8,5.265,2.876
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.5,2.42,1.829
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.5,3.4,2.92
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.4,2.211,1.429
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.4,1.767,1.417
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H13_N_O3.txt,-5.4,5.249,2.635
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-5.5,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.9,10.255,9.323
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.8,10.545,9.651
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.7,10.277,9.384
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.5,12.152,11.195
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.5,11.229,10.52
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.3,10.707,10.064
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.3,12.2,11.398
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H15_N_O3_S.txt,-4.2,11.446,10.848
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-6.7,0.0,0.0
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-6.4,4.184,2.101
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-5.2,4.363,1.955
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-5.2,4.825,1.514
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-5.1,3.453,1.99
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-5.0,3.525,2.166
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-5.0,12.764,11.805
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-4.9,12.055,11.259
+Model_CYFIP2_WT_DOPE___-160988.06250_minimized_Formula_C9_H8_O4.txt,-4.8,12.557,11.562
