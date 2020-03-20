@@ -1,0 +1,396 @@
+MODEL 1
+REMARK VINA RESULT:      -5.5      0.000      0.000
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572      -0.276  41.296 228.000  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572      -0.454  41.651 226.665  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572      -1.544  41.156 225.952  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572      -2.462  40.306 226.579  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572      -2.284  39.953 227.912  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572      -1.193  40.447 228.618  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572       0.920  41.830 228.808  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572       0.460  42.817 229.739  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572       1.117  43.497 229.826  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572       2.003  42.406 227.874  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572       3.102  42.981 228.660  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572       3.892  41.908 229.288  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572       3.684  43.607 228.102  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572       2.768  43.659 229.345  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572      -1.696  41.517 224.647  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572      -2.206  40.958 224.073  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572      -3.536  39.804 225.906  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572      -3.528  39.714 224.960  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.5      2.565      5.321
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       0.589  41.065 227.696  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       0.993  41.683 228.878  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       2.349  41.806 229.171  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       3.306  41.314 228.275  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572       2.901  40.699 227.095  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       1.547  40.576 226.810  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572      -0.903  40.918 227.351  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572      -1.358  42.109 226.699  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572      -1.370  41.968 225.759  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572      -1.734  40.622 228.614  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572      -1.619  39.204 228.982  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572      -2.591  38.402 228.218  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572      -0.666  38.857 228.870  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572      -1.713  39.062 229.987  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       2.720  42.412 230.333  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       3.303  41.952 230.926  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572       4.640  41.418 228.536  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572       5.084  40.791 229.096  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.4      2.606      5.531
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       0.940  41.543 227.957  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       1.391  41.968 229.205  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       2.758  42.048 229.460  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       3.678  41.707 228.462  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572       3.226  41.285 227.216  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       1.861  41.204 226.967  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572      -0.565  41.446 227.651  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572      -1.259  41.006 228.825  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572      -0.657  40.996 229.560  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572      -0.826  40.502 226.462  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572      -1.222  41.272 225.275  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572      -2.518  40.790 224.768  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572      -1.232  42.275 225.457  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572      -0.501  41.258 224.554  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       3.176  42.464 230.689  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       2.834  43.279 231.039  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572       5.021  41.774 228.684  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572       5.387  42.373 229.324  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.3      1.727      2.455
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       0.159  41.624 227.267  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572      -0.026  40.808 228.382  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572      -1.146  39.985 228.464  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572      -2.085  39.974 227.425  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572      -1.899  40.788 226.313  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572      -0.780  41.609 226.237  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572       1.389  42.542 227.154  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572       1.655  42.808 225.772  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572       1.436  43.711 225.578  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572       2.612  41.911 227.846  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572       3.202  42.856 228.804  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572       4.295  42.206 229.548  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572       3.507  43.718 228.352  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572       2.500  43.254 229.428  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572      -1.306  39.197 229.564  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572      -1.227  38.255 229.470  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572      -3.192  39.181 227.479  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572      -3.497  38.814 228.301  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.1      9.710     10.849
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       2.301  37.270 237.063  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       2.417  36.716 235.789  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       1.294  36.614 234.970  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       0.052  37.072 235.425  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572      -0.061  37.626 236.696  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       1.061  37.723 237.510  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572       3.527  37.393 237.985  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572       4.656  37.824 237.216  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572       5.359  37.193 237.311  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572       3.815  36.059 238.700  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572       4.088  36.291 240.125  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572       5.403  35.732 240.486  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572       4.012  37.277 240.373  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572       3.343  35.929 240.720  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       1.431  36.068 233.730  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       1.996  36.498 233.098  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572      -1.064  36.983 234.647  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572      -1.633  36.223 234.686  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.0      2.951      5.114
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       0.484  41.067 228.082  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       1.265  40.138 227.398  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       2.654  40.198 227.485  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       3.265  41.187 228.264  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572       2.484  42.113 228.948  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       1.099  42.051 228.855  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572      -1.052  41.021 228.002  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572      -1.566  40.335 229.149  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572      -0.934  40.389 229.856  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572      -1.515  40.348 226.695  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572      -1.460  41.303 225.580  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572      -2.279  40.817 224.456  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572      -1.729  42.244 225.869  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572      -0.501  41.502 225.296  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       3.396  39.279 226.806  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       3.057  38.925 225.992  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572       4.621  41.271 228.366  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572       5.152  41.587 227.644  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.0     10.243     11.602
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       3.069  36.823 237.459  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       1.945  37.645 237.411  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       1.098  37.602 236.306  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       1.373  36.730 235.246  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572       2.494  35.909 235.296  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       3.337  35.957 236.399  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572       4.018  36.852 238.669  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572       5.326  37.244 238.234  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572       5.343  38.184 238.099  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572       4.052  35.483 239.376  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572       5.343  35.287 240.049  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572       5.248  35.705 241.459  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572       5.680  34.329 239.958  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572       6.104  35.760 239.562  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       0.006  38.417 236.281  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       0.120  39.345 236.452  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572       0.564  36.669 234.151  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572       0.545  37.371 233.511  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.0      2.954      5.076
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       0.484  40.930 227.608  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       1.358  39.972 227.097  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       2.722  40.063 227.363  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       3.215  41.114 228.147  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572       2.341  42.068 228.657  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       0.981  41.974 228.387  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572      -1.027  40.850 227.328  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572      -1.460  42.072 226.718  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572      -2.239  42.386 227.162  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572      -1.813  40.564 228.622  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572      -1.499  39.219 229.124  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572      -2.161  38.201 228.289  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572      -0.494  39.062 229.192  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572      -1.735  39.116 230.110  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       3.558  39.116 226.851  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       3.376  38.761 225.989  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572       4.545  41.230 228.421  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572       5.126  41.716 227.848  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.7     10.525     12.662
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_6 
+REMARK    2  A    between atoms: C3_3  and  O1_8 
+REMARK    3  A    between atoms: C4_4  and  O2_10 
+REMARK    4  A    between atoms: C7_6  and  O3_12 
+REMARK    5  A    between atoms: C7_6  and  C8_14 
+REMARK    6  A    between atoms: C8_14  and  N1_15 
+ROOT
+HETATM    1  C1  ALE  1572       2.636  36.559 237.228  1.00 20.00    -0.025 A 
+HETATM    2  C2  ALE  1572       2.573  35.390 237.984  1.00 20.00     0.049 A 
+HETATM    3  C3  ALE  1572       3.528  35.144 238.967  1.00 20.00     0.099 A 
+HETATM    4  C4  ALE  1572       4.548  36.074 239.200  1.00 20.00     0.098 A 
+HETATM    5  C5  ALE  1572       4.609  37.241 238.446  1.00 20.00     0.040 A 
+HETATM    6  C6  ALE  1572       3.655  37.480 237.464  1.00 20.00     0.012 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  C7  ALE  1572       1.592  36.852 236.137  1.00 20.00     0.176 C 
+BRANCH   7   8
+HETATM    8  O3  ALE  1572       2.263  37.244 234.933  1.00 20.00    -0.389 OA
+ATOM      9  H3  ALE  1572       2.738  38.052 235.088  1.00  0.00     0.210 HD
+ENDBRANCH   7   8
+BRANCH   7  10
+HETATM   10  C8  ALE  1572       0.599  37.936 236.600  1.00 20.00     0.268 C 
+BRANCH  10  11
+HETATM   11  N1  ALE  1572      -0.762  37.387 236.669  1.00 20.00    -0.076 N 
+HETATM   12  C9  ALE  1572      -0.841  36.131 235.902  1.00 20.00     0.267 C 
+ATOM     13  H12 ALE  1572      -1.077  37.266 237.632  1.00  0.00     0.276 HD
+ATOM     14  H11 ALE  1572      -1.462  38.063 236.367  1.00  0.00     0.276 HD
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+ENDBRANCH   1   7
+BRANCH   3  15
+HETATM   15  O1  ALE  1572       3.447  33.993 239.692  1.00 20.00    -0.358 OA
+ATOM     16  H1  ALE  1572       4.233  33.476 239.823  1.00  0.00     0.217 HD
+ENDBRANCH   3  15
+BRANCH   4  17
+HETATM   17  O2  ALE  1572       5.498  35.859 240.154  1.00 20.00    -0.358 OA
+ATOM     18  H2  ALE  1572       6.423  35.958 239.960  1.00  0.00     0.217 HD
+ENDBRANCH   4  17
+TORSDOF 6
+ENDMDL

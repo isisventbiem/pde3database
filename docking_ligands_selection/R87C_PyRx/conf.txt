@@ -1,0 +1,8 @@
+receptor = Model_CYFIP2_R87C_DOPE___-161301.70313_minimized.pdbqt
+exhaustiveness  = 8
+center_x = 0.48255930599
+center_y = 39.1043167424
+center_z = 231.191588861
+size_x = 20.1243104989
+size_y = 19.4261886361
+size_z = 19.3351087244

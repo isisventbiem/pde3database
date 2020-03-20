@@ -1,0 +1,43 @@
+COMPND AIN 2-(ACETYLOXY)BENZOIC ACID; ACETYLSALICYLIC ACID, ASPIRIN
+REMARK AIN Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK AIN Extracted from PDB file pdb1tgm.ent
+REMARK AIN Formula C9 H8 O4
+REMARK AIN Nr of non-hydrogen atoms  13
+REMARK AIN Eigen-values covariance X/Y/Z       47.7      27.9       3.7
+REMARK AIN Residue type AIN
+REMARK AIN Residue name   1536
+REMARK AIN Original residue name (for O) $202
+REMARK AIN  RESOLUTION. 1.86 ANGSTROMS.
+REMARK AIN occurs in        3 other PDB entries
+REMARK AIN Also in 1.5-2.0A  :  1OXR 2G5J
+REMARK AIN Resolution (A)    :  1.93 2.00
+REMARK AIN Also in 2.0-2.5A  :  2QQT
+REMARK AIN Resolution (A)    :  2.50
+REMARK AIN
+HETATM    1  O1  AIN  1536     -48.581 -63.304 312.878  1.00 20.00           O
+HETATM    2  C7  AIN  1536     -49.709 -62.940 312.583  1.00 20.00           C
+HETATM    3  O2  AIN  1536     -50.534 -63.773 312.247  1.00 20.00           O
+HETATM    4  C3  AIN  1536     -50.070 -61.482 312.649  1.00 20.00           C
+HETATM    5  C4  AIN  1536     -49.107 -60.561 313.043  1.00 20.00           C
+HETATM    6  C5  AIN  1536     -49.419 -59.210 313.109  1.00 20.00           C
+HETATM    7  C6  AIN  1536     -50.694 -58.756 312.785  1.00 20.00           C
+HETATM    8  C1  AIN  1536     -51.696 -59.640 312.384  1.00 20.00           C
+HETATM    9  C2  AIN  1536     -51.431 -61.002 312.283  1.00 20.00           C
+HETATM   10  O3  AIN  1536     -52.413 -61.904 311.938  1.00 20.00           O
+HETATM   11  C8  AIN  1536     -53.066 -62.200 310.669  1.00 20.00           C
+HETATM   12  O4  AIN  1536     -54.203 -62.630 310.706  1.00 20.00           O
+HETATM   13  C9  AIN  1536     -52.399 -62.042 309.338  1.00 20.00           C
+CONECT    8    7    9
+CONECT    9    8    4   10
+CONECT    4    5    9    2
+CONECT    5    6    4
+CONECT    6    7    5
+CONECT    7    8    6
+CONECT    2    1    3    4
+CONECT   11   13   12   10
+CONECT   13   11
+CONECT    1    2
+CONECT    3    2
+CONECT   10    9   11
+CONECT   12   11
+END
