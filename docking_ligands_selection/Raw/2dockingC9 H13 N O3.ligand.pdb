@@ -1,0 +1,41 @@
+COMPND ALE L-EPINEPHRINE; ADR; ADRENALINE
+REMARK ALE Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK ALE Extracted from PDB file pdb2hkk.ent
+REMARK ALE Formula C9 H13 N O3
+REMARK ALE Nr of non-hydrogen atoms  13
+REMARK ALE Eigen-values covariance X/Y/Z       77.1      15.7       3.5
+REMARK ALE Residue type ALE
+REMARK ALE Residue name   1572
+REMARK ALE Original residue name (for O) $300
+REMARK ALE  RESOLUTION. 1.90 ANGSTROMS.
+REMARK ALE occurs in        1 other PDB entries
+REMARK ALE Also in 1.5-2.0A  :  3PAH
+REMARK ALE Resolution (A)    :  2.00
+REMARK ALE
+HETATM    1  C1  ALE  1572     -51.307   5.812  23.208  1.00 20.00           C
+HETATM    2  C2  ALE  1572     -50.821   4.508  23.141  1.00 20.00           C
+HETATM    3  C3  ALE  1572     -49.632   4.243  22.465  1.00 20.00           C
+HETATM    4  C4  ALE  1572     -48.923   5.287  21.859  1.00 20.00           C
+HETATM    5  C5  ALE  1572     -49.409   6.588  21.929  1.00 20.00           C
+HETATM    6  C7  ALE  1572     -52.619   6.131  23.948  1.00 20.00           C
+HETATM    7  C6  ALE  1572     -50.597   6.847  22.601  1.00 20.00           C
+HETATM    8  O1  ALE  1572     -49.177   2.960  22.411  1.00 20.00           O
+HETATM    9  O2  ALE  1572     -47.759   5.057  21.190  1.00 20.00           O
+HETATM   10  O3  ALE  1572     -52.449   5.863  25.346  1.00 20.00           O
+HETATM   11  C8  ALE  1572     -53.791   5.321  23.364  1.00 20.00           C
+HETATM   12  N1  ALE  1572     -54.744   4.961  24.423  1.00 20.00           N
+HETATM   13  C9  ALE  1572     -54.781   3.500  24.596  1.00 20.00           C
+CONECT    1    7    2    6
+CONECT    2    1    3
+CONECT    3    4    8    2
+CONECT    4    3    9    5
+CONECT    5    4    7
+CONECT    7    1    5
+CONECT    6   10    1   11
+CONECT   11   12    6
+CONECT   13   12
+CONECT   12   11   13
+CONECT    8    3
+CONECT    9    4
+CONECT   10    6
+END

@@ -1,0 +1,151 @@
+COMPND RAP RAPAMYCIN IMMUNOSUPPRESSANT DRUG
+REMARK RAP Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK RAP Extracted from PDB file pdb1fkb.ent
+REMARK RAP Formula C51 H79 N O13
+REMARK RAP Nr of non-hydrogen atoms  65
+REMARK RAP Eigen-values covariance X/Y/Z     1218.3     641.5     164.1
+REMARK RAP Residue type RAP
+REMARK RAP Residue name   6544
+REMARK RAP Original residue name (for O) $1
+REMARK RAP  RESOLUTION. 1.70 ANGSTROMS.
+REMARK RAP occurs in        8 other PDB entries
+REMARK RAP Also in 1.5-2.0A  :  1FKL 2DG3 2DG4 2DG9 1C9H
+REMARK RAP Resolution (A)    :  1.70 1.70 1.70 1.70 2.00
+REMARK RAP Also in 2.0-2.5A  :  1PBK
+REMARK RAP Resolution (A)    :  2.50
+REMARK RAP Also in 2.5-3.0A  :  1FAP
+REMARK RAP Resolution (A)    :  2.70
+REMARK RAP Also in    >3.0A  :  1Z58
+REMARK RAP Resolution (A)    :  3.80
+REMARK RAP
+HETATM    1  C1  RAP  6544     -48.170   2.584  23.244  1.00 20.00           C
+HETATM    2  O1  RAP  6544     -49.045   3.446  22.526  1.00 20.00           O
+HETATM    3  O2  RAP  6544     -48.671   1.725  23.967  1.00 20.00           O
+HETATM    4  C2  RAP  6544     -46.651   2.674  23.109  1.00 20.00           C
+HETATM    5  C3  RAP  6544     -45.974   2.576  24.468  1.00 20.00           C
+HETATM    6  C4  RAP  6544     -46.089   3.845  25.300  1.00 20.00           C
+HETATM    7  C5  RAP  6544     -45.549   5.001  24.478  1.00 20.00           C
+HETATM    8  C6  RAP  6544     -46.301   5.136  23.190  1.00 20.00           C
+HETATM    9  N7  RAP  6544     -46.144   3.878  22.444  1.00 20.00           N
+HETATM   10  C8  RAP  6544     -45.738   3.829  21.165  1.00 20.00           C
+HETATM   11  O3  RAP  6544     -45.728   2.730  20.594  1.00 20.00           O
+HETATM   12  C9  RAP  6544     -45.249   4.956  20.470  1.00 20.00           C
+HETATM   13  O4  RAP  6544     -44.049   5.245  20.561  1.00 20.00           O
+HETATM   14  C10 RAP  6544     -46.154   5.843  19.595  1.00 20.00           C
+HETATM   15  O5  RAP  6544     -46.890   6.634  20.501  1.00 20.00           O
+HETATM   16  O6  RAP  6544     -45.330   6.655  18.754  1.00 20.00           O
+HETATM   17  C11 RAP  6544     -47.157   5.018  18.690  1.00 20.00           C
+HETATM   18  C12 RAP  6544     -48.243   5.934  18.080  1.00 20.00           C
+HETATM   19  C13 RAP  6544     -48.868   6.810  19.155  1.00 20.00           C
+HETATM   20  C14 RAP  6544     -47.842   7.520  20.034  1.00 20.00           C
+HETATM   21  C15 RAP  6544     -48.520   8.056  21.282  1.00 20.00           C
+HETATM   22  C16 RAP  6544     -49.476   9.228  21.091  1.00 20.00           C
+HETATM   23  O7  RAP  6544     -48.746  10.294  20.574  1.00 20.00           O
+HETATM   24  C17 RAP  6544     -50.111   9.641  22.402  1.00 20.00           C
+HETATM   25  C18 RAP  6544     -51.417   9.464  22.555  1.00 20.00           C
+HETATM   26  C19 RAP  6544     -52.169   9.788  23.776  1.00 20.00           C
+HETATM   27  C20 RAP  6544     -53.483   9.615  23.787  1.00 20.00           C
+HETATM   28  C21 RAP  6544     -54.272   9.827  25.016  1.00 20.00           C
+HETATM   29  C22 RAP  6544     -55.538   9.466  25.101  1.00 20.00           C
+HETATM   30  C23 RAP  6544     -56.365   9.558  26.365  1.00 20.00           C
+HETATM   31  C24 RAP  6544     -56.898   8.162  26.638  1.00 20.00           C
+HETATM   32  C25 RAP  6544     -55.889   7.030  26.683  1.00 20.00           C
+HETATM   33  C26 RAP  6544     -56.574   5.686  26.478  1.00 20.00           C
+HETATM   34  O8  RAP  6544     -57.061   5.064  27.419  1.00 20.00           O
+HETATM   35  C27 RAP  6544     -56.614   5.149  25.051  1.00 20.00           C
+HETATM   36  O9  RAP  6544     -57.668   4.229  24.947  1.00 20.00           O
+HETATM   37  C28 RAP  6544     -55.314   4.388  24.634  1.00 20.00           C
+HETATM   38  O10 RAP  6544     -54.894   3.603  25.759  1.00 20.00           O
+HETATM   39  C29 RAP  6544     -54.169   5.320  24.192  1.00 20.00           C
+HETATM   40  C30 RAP  6544     -53.059   5.497  24.906  1.00 20.00           C
+HETATM   41  C31 RAP  6544     -51.816   6.345  24.595  1.00 20.00           C
+HETATM   42  C32 RAP  6544     -50.679   5.436  24.128  1.00 20.00           C
+HETATM   43  O11 RAP  6544     -49.738   5.130  24.866  1.00 20.00           O
+HETATM   44  C33 RAP  6544     -50.813   4.885  22.713  1.00 20.00           C
+HETATM   45  C34 RAP  6544     -50.426   3.423  22.625  1.00 20.00           C
+HETATM   46  C35 RAP  6544     -50.921   2.604  21.416  1.00 20.00           C
+HETATM   47  C36 RAP  6544     -52.398   2.236  21.536  1.00 20.00           C
+HETATM   48  C37 RAP  6544     -52.800   1.307  22.684  1.00 20.00           C
+HETATM   49  C38 RAP  6544     -54.319   1.098  22.684  1.00 20.00           C
+HETATM   50  C39 RAP  6544     -54.808   0.274  23.877  1.00 20.00           C
+HETATM   51  O12 RAP  6544     -56.173   0.026  23.658  1.00 20.00           O
+HETATM   52  C40 RAP  6544     -54.014  -1.076  23.956  1.00 20.00           C
+HETATM   53  O13 RAP  6544     -54.371  -1.757  25.157  1.00 20.00           O
+HETATM   54  C41 RAP  6544     -52.484  -0.884  23.921  1.00 20.00           C
+HETATM   55  C42 RAP  6544     -52.070  -0.035  22.727  1.00 20.00           C
+HETATM   56  C43 RAP  6544     -46.492   4.144  17.587  1.00 20.00           C
+HETATM   57  C44 RAP  6544     -49.160  10.265  23.437  1.00 20.00           C
+HETATM   58  C45 RAP  6544     -57.508  10.548  26.199  1.00 20.00           C
+HETATM   59  C46 RAP  6544     -55.087   7.040  27.987  1.00 20.00           C
+HETATM   60  C47 RAP  6544     -54.420   6.034  22.877  1.00 20.00           C
+HETATM   61  C48 RAP  6544     -51.393   7.093  25.870  1.00 20.00           C
+HETATM   62  C49 RAP  6544     -50.656   3.299  20.112  1.00 20.00           C
+HETATM   63  C50 RAP  6544     -49.465  11.248  19.860  1.00 20.00           C
+HETATM   64  C51 RAP  6544     -58.899   4.767  24.610  1.00 20.00           C
+HETATM   65  C52 RAP  6544     -57.071   0.835  24.338  1.00 20.00           C
+CONECT    1    3    2    4
+CONECT   14   16   17   15   12
+CONECT   17   18   14   56
+CONECT   18   17   19
+CONECT   19   20   18
+CONECT   20   21   15   19
+CONECT   21   20   22
+CONECT   22   21   23   24
+CONECT   24   22   25   57
+CONECT   25   24   26
+CONECT   26   27   25
+CONECT    4    9    5    1
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   30   28
+CONECT   30   29   31   58
+CONECT   31   30   32
+CONECT   32   59   33   31
+CONECT   33   32   34   35
+CONECT   35   33   36   37
+CONECT   37   35   38   39
+CONECT   39   37   60   40
+CONECT    5    6    4
+CONECT   40   41   39
+CONECT   41   40   61   42
+CONECT   42   43   44   41
+CONECT   44   45   42
+CONECT   45    2   46   44
+CONECT   46   45   47   62
+CONECT   47   46   48
+CONECT   48   55   47   49
+CONECT   49   50   48
+CONECT   50   52   49   51
+CONECT    6    5    7
+CONECT   52   50   54   53
+CONECT   54   55   52
+CONECT   55   54   48
+CONECT   56   17
+CONECT   57   24
+CONECT   58   30
+CONECT   59   32
+CONECT   60   39
+CONECT   61   41
+CONECT   62   46
+CONECT    7    8    6
+CONECT   63   23
+CONECT   64   36
+CONECT   65   51
+CONECT    8    9    7
+CONECT   10    9   11   12
+CONECT   12   13   10   14
+CONECT    9    8   10    4
+CONECT    2    1   45
+CONECT   38   37
+CONECT   43   42
+CONECT   51   50   65
+CONECT   53   52
+CONECT    3    1
+CONECT   11   10
+CONECT   13   12
+CONECT   15   20   14
+CONECT   16   14
+CONECT   23   22   63
+CONECT   34   33
+CONECT   36   64   35
+END

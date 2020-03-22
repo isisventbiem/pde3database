@@ -1,0 +1,79 @@
+COMPND MIY (4S,4AS,5AR,12AS)-4,7-BIS(DIMETHYLAMINO)-3,10,12,12A- TETRAHYDROXY-1,11-DIOXO-1,4,4A,5,5A,6,11,12A- OCTAHYDROTETRACENE-2-CARBOXAMIDE; MINOCYCLINE
+REMARK MIY Part of HIC-Up: http://xray.bmc.uu.se/hicup
+REMARK MIY Extracted from PDB file pdb2drd.ent
+REMARK MIY Formula C23 H27 N3 O7
+REMARK MIY Nr of non-hydrogen atoms  33
+REMARK MIY Eigen-values covariance X/Y/Z      452.4      79.0      66.1
+REMARK MIY Residue type MIY
+REMARK MIY Residue name   5181
+REMARK MIY Original residue name (for O) $2001
+REMARK MIY  RESOLUTION. 3.10 ANGSTROMS.
+REMARK MIY occurs in        0 other PDB entries
+REMARK MIY
+HETATM    1  O8  MIY  5181     -45.017   4.475  22.568  1.00 20.00           O
+HETATM    2  C21 MIY  5181     -45.967   5.036  23.136  1.00 20.00           C
+HETATM    3  N2  MIY  5181     -45.900   5.498  24.405  1.00 20.00           N
+HETATM    4  C2  MIY  5181     -47.289   5.228  22.464  1.00 20.00           C
+HETATM    5  C1  MIY  5181     -48.417   4.328  22.797  1.00 20.00           C
+HETATM    6  O1  MIY  5181     -48.271   3.503  23.678  1.00 20.00           O
+HETATM    7  C3  MIY  5181     -47.497   6.223  21.549  1.00 20.00           C
+HETATM    8  O2  MIY  5181     -46.434   6.946  21.154  1.00 20.00           O
+HETATM    9  C4  MIY  5181     -48.887   6.594  20.943  1.00 20.00           C
+HETATM   10  N1  MIY  5181     -48.880   6.729  19.391  1.00 20.00           N
+HETATM   11  C20 MIY  5181     -50.101   7.306  18.733  1.00 20.00           C
+HETATM   12  C19 MIY  5181     -48.404   5.584  18.570  1.00 20.00           C
+HETATM   13  C5  MIY  5181     -50.104   5.829  21.565  1.00 20.00           C
+HETATM   14  C18 MIY  5181     -49.736   4.396  21.988  1.00 20.00           C
+HETATM   15  O7  MIY  5181     -49.501   3.634  20.794  1.00 20.00           O
+HETATM   16  C17 MIY  5181     -51.019   3.756  22.558  1.00 20.00           C
+HETATM   17  O6  MIY  5181     -51.082   2.415  22.551  1.00 20.00           O
+HETATM   18  C16 MIY  5181     -52.135   4.396  22.984  1.00 20.00           C
+HETATM   19  C7  MIY  5181     -52.287   5.891  22.926  1.00 20.00           C
+HETATM   20  C6  MIY  5181     -50.925   6.569  22.647  1.00 20.00           C
+HETATM   21  C15 MIY  5181     -53.227   3.571  23.546  1.00 20.00           C
+HETATM   22  O5  MIY  5181     -53.274   2.333  23.497  1.00 20.00           O
+HETATM   23  C14 MIY  5181     -54.293   4.232  24.333  1.00 20.00           C
+HETATM   24  C9  MIY  5181     -54.135   5.560  24.720  1.00 20.00           C
+HETATM   25  C8  MIY  5181     -52.879   6.338  24.285  1.00 20.00           C
+HETATM   26  C13 MIY  5181     -55.390   3.455  24.688  1.00 20.00           C
+HETATM   27  O4  MIY  5181     -55.458   2.146  24.255  1.00 20.00           O
+HETATM   28  C12 MIY  5181     -56.402   4.020  25.461  1.00 20.00           C
+HETATM   29  C11 MIY  5181     -56.268   5.348  25.865  1.00 20.00           C
+HETATM   30  C10 MIY  5181     -55.152   6.121  25.504  1.00 20.00           C
+HETATM   31  N7  MIY  5181     -55.060   7.421  25.987  1.00 20.00           N
+HETATM   32  CN7 MIY  5181     -54.937   7.226  27.438  1.00 20.00           C
+HETATM   33  C71 MIY  5181     -56.318   8.167  25.773  1.00 20.00           C
+CONECT    5    6   14    4
+CONECT   30   31   24   29
+CONECT   29   30   28
+CONECT   28   29   26
+CONECT   26   27   23   28
+CONECT   23   21   24   26
+CONECT   21   22   18   23
+CONECT   18   21   19   16
+CONECT   16   14   18   17
+CONECT   14   13    5   15   16
+CONECT   12   10
+CONECT    4    5    7    2
+CONECT   11   10
+CONECT    2    3    1    4
+CONECT    7    8    9    4
+CONECT    9   13    7   10
+CONECT   13   14   20    9
+CONECT   20   13   19
+CONECT   19   18   20   25
+CONECT   33   31
+CONECT   25   19   24
+CONECT   24   30   23   25
+CONECT   32   31
+CONECT   10    9   12   11
+CONECT    3    2
+CONECT   31   30   32   33
+CONECT    6    5
+CONECT    8    7
+CONECT   27   26
+CONECT   22   21
+CONECT   17   16
+CONECT   15   14
+CONECT    1    2
+END
